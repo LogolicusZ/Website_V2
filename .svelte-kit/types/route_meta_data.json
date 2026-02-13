@@ -1,3 +1,16 @@
 {
-	"/": []
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/gallery": [
+		"src/routes/gallery/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/legal": [
+		"src/routes/+layout.ts"
+	],
+	"/projects/juna": [
+		"src/routes/+layout.ts"
+	]
 }
