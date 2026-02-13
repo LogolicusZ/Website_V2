@@ -37,7 +37,6 @@ declare module '$env/static/private' {
 	export const VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 	export const npm_config_npm_globalconfig: string;
 	export const MallocNanoZone: string;
-	export const ORIGINAL_XDG_CURRENT_DESKTOP: string;
 	export const ZDOTDIR: string;
 	export const npm_config_registry: string;
 	export const PNPM_HOME: string;
@@ -126,7 +125,6 @@ declare module '$env/dynamic/private' {
 		VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 		npm_config_npm_globalconfig: string;
 		MallocNanoZone: string;
-		ORIGINAL_XDG_CURRENT_DESKTOP: string;
 		ZDOTDIR: string;
 		npm_config_registry: string;
 		PNPM_HOME: string;

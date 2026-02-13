@@ -22,7 +22,7 @@
 </button>
 
 <div
-  class="bg-base-100 fixed top-0 left-0 z-50 flex h-full w-200 in-w-200 flex-col gap-6 overflow-x-visible overflow-y-clip p-12 shadow-lg transition-transform duration-300 ease-in-out md:static md:translate-x-0 md:shadow-none lg:static lg:translate-x-0 lg:shadow-none {sidebarOpen
+  class="bg-base-100 fixed top-0 left-0 z-50 flex h-full w-175 in-w-175 flex-col gap-6 overflow-x-visible overflow-y-clip p-12 shadow-lg transition-transform duration-300 ease-in-out md:static md:translate-x-0 md:shadow-none lg:static lg:translate-x-0 lg:shadow-none {sidebarOpen
     ? 'translate-x-0'
     : '-translate-x-full'}"
 >
@@ -57,7 +57,7 @@
     <p class="text-sm uppercase opacity-50">Legal</p>
     <!-- <a class="text-base-content unset-link no-underline hover:opacity-80" href="/">Home</a> -->
     <a
-      class="text-base-content unset-link mb-6 no-underline hover:opacity-80"
+      class="text-base-content unset-link mb-0.5 no-underline hover:opacity-80"
       href="/legal/"
       onclick={toggleOffSidebar}
     >

@@ -17,21 +17,21 @@
     classic, stiff mounting experience.
   </p>
 
-  <img src="/assets/img/gallery/file_10.avif" />
+  <img src="/assets/img/projects/juna/file_10.avif" />
 
   <p class="mt-8 mb-8 text-lg leading-relaxed">
     It was one of the first keyboards I designed and reflects my appreciation
     for rigid, traditional mounting styles.
   </p>
 
-  <img src="/assets/img/gallery/file_9.avif" />
+  <img src="/assets/img/projects/juna/file_9.avif" />
 
   <p class="mt-8 mb-8 text-lg leading-relaxed">
     The board draws its theme from Clairo’s Charm album, carrying that influence
     through its overall aesthetic direction.
   </p>
 
-  <img src="/assets/img/gallery/file_11.avif" />
+  <img src="/assets/img/projects/juna/file_11.avif" />
 
   <!-- Links -->
   <div class="mt-8 space-y-3">
