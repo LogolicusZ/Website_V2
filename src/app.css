@@ -2,6 +2,7 @@
 
 @import "@fontsource/geist-sans";
 @import "@fontsource/geist-mono";
+@import '@fontsource/young-serif';
 @font-face {
   font-family: "Daydream";
   src: url("/assets/fonts/daydream.ttf") format("truetype");
@@ -14,7 +15,8 @@
   --font-sans:
     "Geist Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     "Noto Color Emoji";
-  --font-serif: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-serif: 
+    "Young Serif", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
   --font-mono:
     "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   --font-daydream:

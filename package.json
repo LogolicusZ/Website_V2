@@ -46,6 +46,7 @@
   "dependencies": {
     "@fontsource/geist-mono": "^5.2.7",
     "@fontsource/geist-sans": "^5.2.5",
+    "@fontsource/young-serif": "^5.2.7",
     "cookie": "^1.1.1",
     "image-size": "^2.0.2",
     "isomorphic-dompurify": "^2.36.0",

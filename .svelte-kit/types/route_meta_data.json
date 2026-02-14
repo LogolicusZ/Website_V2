@@ -12,5 +12,8 @@
 	],
 	"/projects/juna": [
 		"src/routes/+layout.ts"
+	],
+	"/projects/krchv": [
+		"src/routes/+layout.ts"
 	]
 }

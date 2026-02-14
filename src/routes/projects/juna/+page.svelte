@@ -1,5 +1,5 @@
 <section class="max-w-7xl mx-auto px-1 py-1">
-  <h1 class="text-6xl font-daydream mb-6">Juna</h1>
+  <h1 class="text-6xl font-serif mb-6">Juna</h1>
 
   <div class="text-m uppercase opacity-50 mb-8 space-x-4">
     <div class="flex flex-col">
