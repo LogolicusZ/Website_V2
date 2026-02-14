@@ -33,24 +33,27 @@
     <X />
   </button>
   <a href="/" onclick={toggleOffSidebar}>
-    <img class="w-150" alt="krchv" src="/assets/svg/logo.svg" />
+    <img class="w-150" alt="logolicusz" src="/assets/svg/logo.svg" />
   </a>
   <div>
-    <p class="text-xl uppercase opacity-50">Projects</p>
-    <a href="/projects/juna" class="block hover:underline"> Juna </a>
+    <p class="text-l uppercase opacity-50">Projects</p>
+    <a href="/projects/juna" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Juna </a>
+     <a href="/projects/krchv" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> KRCHV </a>
   </div>
   <div>
-    <p class="text-xl uppercase opacity-50">Photography</p>
-    <a href="/gallery/" class="block hover:underline"> Gallery </a>
+    <p class="text-l uppercase opacity-50">Photography</p>
+    <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Gallery </a>
   </div>
   <div>
-    <p class="text-xl uppercase opacity-50">About</p>
+    <p class="text-l uppercase opacity-50">About</p>
+    <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
+    <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>
   </div>
   <div>
-    <p class="text-xl uppercase opacity-50">Links</p>
-    <div class="flex flex-col">
-      <a href="https://github.com/LogolicusZ"> Github</a>
-      <a href="https://www.instagram.com/logolicusz.kb/"> Instagram</a>
+    <p class="text-l uppercase opacity-50">Links</p>
+    <div class="text-3xl ml-2 flex flex-col ">
+      <a href="https://github.com/LogolicusZ" class="unset-link no-underline hover:text-primary"> Github</a>
+      <a href="https://www.instagram.com/logolicusz.kb/" class="unset-link no-underline hover:underline hover:text-primary"> Instagram</a>
     </div>
   </div>
   <div class="mt-auto flex flex-col">

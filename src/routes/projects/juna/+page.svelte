@@ -1,4 +1,4 @@
-<section class="max-w-5xl mx-auto px-1 py-1">
+<section class="max-w-7xl mx-auto px-1 py-1">
   <h1 class="text-6xl font-daydream mb-6">Juna</h1>
 
   <div class="text-m uppercase opacity-50 mb-8 space-x-4">
@@ -17,25 +17,25 @@
     classic, stiff mounting experience.
   </p>
 
-  <img src="/assets/img/projects/juna/file_10.avif" />
+  <img src="/assets/img/projects/juna/file_10.avif" class="rounded-sm" />
 
   <p class="mt-8 mb-8 text-lg leading-relaxed">
     It was one of the first keyboards I designed and reflects my appreciation
     for rigid, traditional mounting styles.
   </p>
 
-  <img src="/assets/img/projects/juna/file_9.avif" />
+  <img src="/assets/img/projects/juna/file_9.avif" class="rounded-sm" />
 
   <p class="mt-8 mb-8 text-lg leading-relaxed">
     The board draws its theme from Clairo’s Charm album, carrying that influence
     through its overall aesthetic direction.
   </p>
 
-  <img src="/assets/img/projects/juna/file_11.avif" />
+  <img src="/assets/img/projects/juna/file_11.avif" class="rounded-sm"/>
 
   <!-- Links -->
   <div class="mt-8 space-y-3">
-    <p class="text-sm uppercase opacity-50">Links</p>
+    <p class="text-m uppercase opacity-50">Links</p>
     <a
       href="https://geekhack.org/index.php?topic=125384.0"
       class="block text-blue-600 hover:underline">Geekhack</a
