@@ -57,7 +57,7 @@
 
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {#each codingSkills as skill}
-          <div class="border border-neutral-200 dark:border-neutral-800 rounded-xl px-4 py-3 text-sm sm:text-base">
+          <div class="border border-primary rounded-xl px-4 py-3 text-sm sm:text-base">
             {skill}
           </div>
         {/each}
@@ -71,7 +71,7 @@
 
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {#each designSkills as skill}
-          <div class="border border-neutral-200 dark:border-neutral-800 rounded-xl px-4 py-3 text-sm sm:text-base">
+          <div class="border border-primary rounded-xl px-4 py-3 text-sm sm:text-base">
             {skill}
           </div>
         {/each}
@@ -85,7 +85,7 @@
 
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {#each hobbies as hobby}
-          <div class="border border-neutral-200 dark:border-neutral-800 rounded-xl px-4 py-3 text-sm sm:text-base">
+          <div class="border border-primary rounded-xl px-4 py-3 text-sm sm:text-base">
             {hobby}
           </div>
         {/each}

@@ -33,7 +33,7 @@
     <X />
   </button>
   <a href="/" onclick={toggleOffSidebar}>
-    <img class="w-150" alt="logolicusz" src="/assets/svg/logo.svg" />
+    <img class="w-75 sm:w-100 md:w-125 lg:w-150" alt="logolicusz" src="/assets/svg/logo.svg" />
   </a>
   <div>
     <p class="text-l uppercase opacity-50">Projects</p>
