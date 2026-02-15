@@ -46,7 +46,7 @@
   </div>
   <div>
     <p class="text-l uppercase opacity-50">About</p>
-    <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
+    <a href="/about/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
     <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>
   </div>
   <div>

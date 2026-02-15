@@ -48,6 +48,7 @@ declare module '$env/static/private' {
 	export const npm_config_frozen_lockfile: string;
 	export const npm_config_verify_deps_before_run: string;
 	export const PATH: string;
+	export const LaunchInstanceID: string;
 	export const npm_package_json: string;
 	export const __CFBundleIdentifier: string;
 	export const PWD: string;
@@ -76,6 +77,7 @@ declare module '$env/static/private' {
 	export const INFOPATH: string;
 	export const GIT_ASKPASS: string;
 	export const VSCODE_GIT_ASKPASS_NODE: string;
+	export const SECURITYSESSIONID: string;
 	export const COLORTERM: string;
 	export const npm_node_execpath: string;
 	export const NODE_ENV: string;
@@ -130,6 +132,7 @@ declare module '$env/dynamic/private' {
 		npm_config_frozen_lockfile: string;
 		npm_config_verify_deps_before_run: string;
 		PATH: string;
+		LaunchInstanceID: string;
 		npm_package_json: string;
 		__CFBundleIdentifier: string;
 		PWD: string;
@@ -158,6 +161,7 @@ declare module '$env/dynamic/private' {
 		INFOPATH: string;
 		GIT_ASKPASS: string;
 		VSCODE_GIT_ASKPASS_NODE: string;
+		SECURITYSESSIONID: string;
 		COLORTERM: string;
 		npm_node_execpath: string;
 		NODE_ENV: string;
