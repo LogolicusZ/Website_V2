@@ -47,18 +47,18 @@
   <div>
     <p class="text-l uppercase opacity-50">About</p>
     <a href="/about/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
-    <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>
+    <a href="/contact/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>
   </div>
   <div>
     <p class="text-l uppercase opacity-50">Links</p>
     <div class="text-3xl ml-2 flex flex-col ">
-      <a href="https://github.com/LogolicusZ" class="unset-link no-underline hover:text-primary"> Github</a>
+    <a href="https://discord.com/users/688701393258938417" class="unset-link no-underline hover:underline hover:text-primary"> Discord</a>
       <a href="https://www.instagram.com/logolicusz.kb/" class="unset-link no-underline hover:underline hover:text-primary"> Instagram</a>
+      <a href="https://github.com/LogolicusZ" class="unset-link no-underline hover:text-primary"> Github</a>
     </div>
   </div>
   <div class="mt-auto flex flex-col">
     <p class="text-sm uppercase opacity-50">Legal</p>
-    <!-- <a class="text-base-content unset-link no-underline hover:opacity-80" href="/">Home</a> -->
     <a
       class="text-base-content unset-link mb-0.5 no-underline hover:opacity-80"
       href="/legal/"

@@ -73,6 +73,17 @@
 		{ src: '/assets/img/gallery/0069.avif', alt: 'Photo 69' },
 		{ src: '/assets/img/gallery/0070.avif', alt: 'Photo 70' },
 		{ src: '/assets/img/gallery/0071.avif', alt: 'Photo 71' },
+		{ src: '/assets/img/gallery/0072.avif', alt: 'Photo 72' },
+		{ src: '/assets/img/gallery/0073.avif', alt: 'Photo 73' },
+		{ src: '/assets/img/gallery/0074.avif', alt: 'Photo 74' },
+		{ src: '/assets/img/gallery/0075.avif', alt: 'Photo 75' },
+		{ src: '/assets/img/gallery/0076.avif', alt: 'Photo 76' },
+		{ src: '/assets/img/gallery/0077.avif', alt: 'Photo 77' },
+		{ src: '/assets/img/gallery/0078.avif', alt: 'Photo 78' },
+		{ src: '/assets/img/gallery/0079.avif', alt: 'Photo 79' },
+		{ src: '/assets/img/gallery/0080.avif', alt: 'Photo 80' },
+		{ src: '/assets/img/gallery/0081.avif', alt: 'Photo 81' },
+		{ src: '/assets/img/gallery/0082.avif', alt: 'Photo 82' },
 	];
 </script>
 
