@@ -1,6 +1,5 @@
 <script>
   const contact = {
-    email: "logolicusz@gmail.com",
     instagram: "@logolicusz.kb",
     discord: "logolicusz"
   };
@@ -26,13 +25,7 @@
         <h2 class="text-m uppercase tracking-widest mb-3">
           Email
         </h2>
-
-        <a
-          href={`mailto:${contact.email}`}
-          class="block text-lg sm:text-xl font-semibold unset-link no-underline hover:text-primary">
-          {contact.email}
-        </a>
-
+          <span><code class="email block text-lg sm:text-xl font-semibold unset-link no-underline hover:text-primary">logol<b class="hidden">ASDÖFKLJASVD09N3NQIUPWRBÖAÖLSBJLLDVsadlfnasdcn823bröaföasdöfhsdca0saüodibdsaf</b>cusz@<b class="hidden">qpwfhpq8vnpq9w849pP@asdhfo239f8zhap0whecpbvp9A83F8PBFAEF</b>gmail.com</code></span>
         <p class="mt-3 text-sm ">
           Best for professional inquiries.
         </p>
