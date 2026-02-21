@@ -2,11 +2,10 @@
   <title>logolicusz</title>
 </svelte:head>
 
-<div class="relative flex h-full w-full items-center justify-center">
+<div class="relative h-full w-full overflow-hidden">
   <img
-    class="absolute top-0 left-0 z-0 h-full w-full object-cover p-0 blur-xs"
-    src="/assets/img/banner.avif"
+    src="/assets/img/0001.avif"
     alt="banner background"
+    class="absolute top-0 right-0 h-full w-auto object-cover rounded-xl"
   />
-
 </div>

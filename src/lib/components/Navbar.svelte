@@ -37,24 +37,24 @@
   </a>
   <div>
     <p class="text-l uppercase opacity-50">Projects</p>
-    <a href="/projects/juna" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Juna </a>
-     <a href="/projects/krchv" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> KRCHV </a>
+    <a href="/projects/juna" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Juna </a>
+     <a href="/projects/krchv" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> KRCHV </a>
   </div>
   <div>
     <p class="text-l uppercase opacity-50">Photography</p>
-    <a href="/gallery/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Gallery </a>
+    <a href="/gallery/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Gallery </a>
   </div>
   <div>
     <p class="text-l uppercase opacity-50">About</p>
-    <a href="/about/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
-    <a href="/contact/" class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>
+    <a href="/about/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
+    <a href="/contact/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>
   </div>
   <div>
     <p class="text-l uppercase opacity-50">Links</p>
     <div class="text-3xl ml-2 flex flex-col ">
-    <a href="https://discord.com/users/688701393258938417" class="unset-link no-underline hover:underline hover:text-primary"> Discord</a>
-      <a href="https://www.instagram.com/logolicusz.kb/" class="unset-link no-underline hover:underline hover:text-primary"> Instagram</a>
-      <a href="https://github.com/LogolicusZ" class="unset-link no-underline hover:text-primary"> Github</a>
+    <a href="https://discord.com/users/688701393258938417" onclick={toggleOffSidebar} class="unset-link no-underline hover:underline hover:text-primary"> Discord</a>
+      <a href="https://www.instagram.com/logolicusz.kb/" onclick={toggleOffSidebar} class="unset-link no-underline hover:underline hover:text-primary"> Instagram</a>
+      <a href="https://github.com/LogolicusZ" onclick={toggleOffSidebar} class="unset-link no-underline hover:text-primary"> Github</a>
     </div>
   </div>
   <div class="mt-auto flex flex-col">
