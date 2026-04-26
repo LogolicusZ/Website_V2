@@ -45,6 +45,10 @@
     <a href="/gallery/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Gallery </a>
   </div>
   <div>
+    <p class="text-l uppercase opacity-50">Blog</p>
+    <a href="/blog/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Posts </a>
+  </div>
+  <div>
     <p class="text-l uppercase opacity-50">About</p>
     <a href="/about/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> About me </a>
     <a href="/contact/" onclick={toggleOffSidebar} class="text-3xl ml-2 block unset-link no-underline hover:underline hover:text-primary"> Contact </a>

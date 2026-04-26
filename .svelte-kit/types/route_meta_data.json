@@ -6,6 +6,14 @@
 	"/about": [
 		"src/routes/+layout.ts"
 	],
+	"/blog": [
+		"src/routes/blog/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/[slug]": [
+		"src/routes/blog/[slug]/+page.ts",
+		"src/routes/+layout.ts"
+	],
 	"/contact": [
 		"src/routes/+layout.ts"
 	],

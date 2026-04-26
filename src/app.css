@@ -1,5 +1,5 @@
 @import "tailwindcss";
-
+@plugin "@tailwindcss/typography";
 @import "@fontsource/geist-sans";
 @import "@fontsource/geist-mono";
 @import '@fontsource/young-serif';
