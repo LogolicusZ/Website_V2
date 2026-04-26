@@ -1,14 +1,16 @@
 <script lang="ts">
-  import Carousel from '$lib/components/Carousel.svelte';
+  import { onMount } from 'svelte';
+  import Carousel from '$lib/components/Carousel.svelte';   
+  import Gallery from '$lib/components/Gallery.svelte';
+  import { getImageSize } from '$lib/utils/getImageSize';
 
   const junaImages = [
     { src: '/assets/img/projects/juna/file_10.avif', alt: 'Juna keyboard render' },
     { src: '/assets/img/projects/juna/file_9.avif',  alt: 'Juna keyboard detail' },
     { src: '/assets/img/projects/juna/file_11.avif', alt: 'Juna keyboard aesthetic shot' }
   ];
-  	import Gallery from '$lib/components/Gallery.svelte';
 
-	const images = [
+	const sources = [
         { src: '/assets/img/projects/juna/file_6.avif', alt: 'Photo 1' },
         { src: '/assets/img/projects/juna/file_7.avif', alt: 'Photo 2' },
         { src: '/assets/img/projects/juna/file_8.avif', alt: 'Photo 3' },
@@ -20,6 +22,16 @@
         { src: '/assets/img/projects/juna/file_14.avif', alt: 'Photo 9' },
         { src: '/assets/img/projects/juna/file_15.avif', alt: 'Photo 10' },
     ];
+  let images: { src: string; width: number; height: number; alt?: string }[] = [];
+
+  onMount(async () => {
+    images = await Promise.all(
+      sources.map(async (s) => {
+        const { width, height } = await getImageSize(s.src);
+        return { ...s, width, height };
+      })
+    );
+  });
 </script>
 
 <section class="w-full px-2.5 py-2.5">
@@ -51,7 +63,9 @@
   </div>
 </div>
 
-  <Gallery {images} />
+{#if images.length > 0}
+<Gallery {images} />
+{/if}
 
   <div class="mt-8 space-y-3">
     <p class="text-sm uppercase opacity-50">Links</p>

@@ -1,7 +1,9 @@
 <script lang="ts">
-	import Gallery from '$lib/components/Gallery.svelte';
+	  import { onMount } from 'svelte';
+  import Gallery from '$lib/components/Gallery.svelte';
+  import { getImageSize } from '$lib/utils/getImageSize';
 
-	const images = [
+	const sources = [
 		{ src: '/assets/img/gallery/0001.avif', alt: 'Photo 1' },
 		{ src: '/assets/img/gallery/0002.avif', alt: 'Photo 2' },
 		{ src: '/assets/img/gallery/0003.avif', alt: 'Photo 3' },
@@ -85,6 +87,18 @@
 		{ src: '/assets/img/gallery/0081.avif', alt: 'Photo 81' },
 		{ src: '/assets/img/gallery/0082.avif', alt: 'Photo 82' },
 	];
+  let images: { src: string; width: number; height: number; alt?: string }[] = [];
+
+  onMount(async () => {
+    images = await Promise.all(
+      sources.map(async (s) => {
+        const { width, height } = await getImageSize(s.src);
+        return { ...s, width, height };
+      })
+    );
+  });
 </script>
 
-<Gallery {images} />
+{#if images.length > 0}
+  <Gallery {images} />
+{/if}
