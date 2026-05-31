@@ -21,6 +21,9 @@
 		"src/routes/gallery/+page.ts",
 		"src/routes/+layout.ts"
 	],
+	"/juna_vendors": [
+		"src/routes/+layout.ts"
+	],
 	"/legal": [
 		"src/routes/+layout.ts"
 	],
