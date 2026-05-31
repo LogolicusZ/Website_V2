@@ -41,8 +41,8 @@
   },
  "pnpm": {
   "overrides": {
-    "tldts": "7.4.1",
-    "tldts-core": "7.4.1"
+    "tldts": "7.4.2",
+    "tldts-core": "7.4.2"
   }
   },
   "dependencies": {
