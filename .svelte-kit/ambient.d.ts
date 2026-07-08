@@ -48,6 +48,7 @@ declare module '$env/static/private' {
 	export const TERM_PROGRAM_VERSION: string;
 	export const VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 	export const npm_config_npm_globalconfig: string;
+	export const FPATH: string;
 	export const MallocNanoZone: string;
 	export const ZDOTDIR: string;
 	export const npm_config_registry: string;
@@ -97,6 +98,7 @@ declare module '$env/static/private' {
 	export const SECURITYSESSIONID: string;
 	export const COLORTERM: string;
 	export const npm_node_execpath: string;
+	export const NODE_ENV: string;
 }
 
 /**
@@ -193,6 +195,7 @@ declare module '$env/dynamic/private' {
 		TERM_PROGRAM_VERSION: string;
 		VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 		npm_config_npm_globalconfig: string;
+		FPATH: string;
 		MallocNanoZone: string;
 		ZDOTDIR: string;
 		npm_config_registry: string;
@@ -242,6 +245,7 @@ declare module '$env/dynamic/private' {
 		SECURITYSESSIONID: string;
 		COLORTERM: string;
 		npm_node_execpath: string;
+		NODE_ENV: string;
 		[key: `PUBLIC_${string}`]: undefined;
 		[key: `${string}`]: string | undefined;
 	}
