@@ -1,12 +1,12 @@
 ---
 title: The Protagonist
 subtitle: Test
-date: '2024-05-06'
+date: "2024-05-06"
 description: A fresh take on a 60% Keyboard
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/protagonist-article/protagonist-11.webp'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/protagonist-article/protagonist-11.webp"
+  alt: "Post Banner"
   width: 3840
   height: 2160
 author:

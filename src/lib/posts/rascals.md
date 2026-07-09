@@ -1,11 +1,11 @@
 ---
 title: GMK MTNU Rascals
-date: '2024-04-25'
+date: "2024-04-25"
 description: A new profile
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/rascals/MTNU-1.avif'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/rascals/MTNU-1.avif"
+  alt: "Post Banner"
   width: 1920
   height: 1080
 author:

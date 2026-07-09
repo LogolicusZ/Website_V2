@@ -1,11 +1,11 @@
 ---
 title: Spyder TKL
-date: '2024-04-21'
+date: "2024-04-21"
 description: The Spyder TKL and its Inspirations
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/spyder-article/Spyder5.avif'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/spyder-article/Spyder5.avif"
+  alt: "Post Banner"
   width: 1440
   height: 1152
 author:

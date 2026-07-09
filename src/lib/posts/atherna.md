@@ -1,12 +1,12 @@
 ---
 title: Atherna
 subtitle: Test
-date: '2024-06-15'
+date: "2024-06-15"
 description: How I made a keyboard
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/atherna/atherna2.png'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/atherna/atherna2.png"
+  alt: "Post Banner"
   width: 3840
   height: 2160
 author:

@@ -1,12 +1,12 @@
 ---
 title: Gehirn TKL
 subtitle: Test
-date: '2024-04-23'
+date: "2024-04-23"
 description: The Return of Baionlenja
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/Gehirn-article/Gehirn13.avif'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/Gehirn-article/Gehirn13.avif"
+  alt: "Post Banner"
   width: 2800
   height: 2100
 author:

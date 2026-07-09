@@ -2,7 +2,8 @@ import sharp from "sharp";
 import { readdir } from "node:fs/promises";
 import path from "node:path";
 
-const BLOG_DIR = new URL("../static/assets/img/blog/", import.meta.url).pathname;
+const BLOG_DIR = new URL("../static/assets/img/blog/", import.meta.url)
+  .pathname;
 
 const TO_CONVERT = [
   "Gehirn-article/Gehirn1.jpeg",

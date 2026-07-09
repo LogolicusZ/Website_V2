@@ -1,11 +1,11 @@
 ---
 title: New Mode SixtyFive
-date: '2024-04-24'
+date: "2024-04-24"
 description: The importance of brand design
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/sixtyfive-article/SixtyFive6.avif'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/sixtyfive-article/SixtyFive6.avif"
+  alt: "Post Banner"
   width: 1080
   height: 1146
 author:

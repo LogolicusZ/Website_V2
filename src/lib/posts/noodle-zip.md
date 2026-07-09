@@ -1,12 +1,12 @@
 ---
 title: Noodle.Zip
 subtitle: Test
-date: '2024-06-12'
+date: "2024-06-12"
 description: A interesting backstory
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/noodle/noodle7.avif'
-  alt: 'Post Banner'
+  path: "/assets/img/blog/noodle/noodle7.avif"
+  alt: "Post Banner"
   width: 6000
   height: 4000
 author:
