@@ -16,9 +16,10 @@
 
 <button
   onclick={toggleSidebar}
-  class="bg-base-100 absolute top-12 left-0 z-40 cursor-pointer rounded-r-full rounded-br-full border-[1px] border-l-0 border-dashed border-gray-400 p-2 pl-3 md:hidden lg:hidden"
+  aria-label="Open navigation"
+  class="bg-base-100 absolute top-10 left-0 z-40 cursor-pointer rounded-r-full rounded-br-full border-[1px] border-l-0 border-dashed border-gray-400 p-4 pl-5 md:hidden lg:hidden"
 >
-  <Menu />
+  <Menu size={32} />
 </button>
 
 <div
@@ -28,9 +29,10 @@
 >
   <button
     onclick={toggleOffSidebar}
-    class="absolute top-12 left-2 cursor-pointer p-1 md:hidden lg:hidden"
+    aria-label="Close navigation"
+    class="absolute top-10 left-2 cursor-pointer p-3 md:hidden lg:hidden"
   >
-    <X />
+    <X size={28} />
   </button>
   <a href="/" onclick={toggleOffSidebar}>
     <img class="w-75 sm:w-100 md:w-125 lg:w-150" alt="logolicusz" src="/assets/svg/logo.svg" />
