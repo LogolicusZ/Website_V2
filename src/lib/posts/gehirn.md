@@ -5,14 +5,17 @@ date: '2024-04-23'
 description: The Return of Baionlenja
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/Gehirn-article/Gehirn13.jpg'
+  path: '/assets/img/blog/Gehirn-article/Gehirn13.avif'
   alt: 'Post Banner'
+  width: 2800
+  height: 2100
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/Gehirn-article/Gehirn13.jpg" alt="Gehirn TKL Images" title="Markerchun"
+<img src="/assets/img/blog/Gehirn-article/Gehirn13.avif" alt="Gehirn TKL Images" title="Markerchun"
+     width="2800" height="2100" loading="eager"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -26,9 +29,11 @@ In recent times, a multitude of exit scams have plagued the hobby, leaving many 
 Regarding Baion, Manu, one of the most well-known vendor managers, has taken him under his wing to guide him out of debt. The Gehirn marks the beginning of Baion's redemption, as some might say. According to Manu, his plan is to create new projects that won't be run by Baionlenja directly but will be managed by vendors instead. This is to ensure that people won't feel like they're being scammed again.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/Gehirn-article/Gehirn1.jpeg" alt="Gehirn TKL Images" title="Alexotos"
+  <img src="/assets/img/blog/Gehirn-article/Gehirn1.avif" alt="Gehirn TKL Images" title="Alexotos"
+       width="1440" height="1440" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/Gehirn-article/Gehirn2.jpeg" alt="Gehirn TKL Images" title="Alexotos"
+  <img src="/assets/img/blog/Gehirn-article/Gehirn2.avif" alt="Gehirn TKL Images" title="Alexotos"
+       width="1440" height="1440" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 

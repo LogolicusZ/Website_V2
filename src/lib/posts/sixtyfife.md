@@ -4,14 +4,17 @@ date: '2024-04-24'
 description: The importance of brand design
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/sixtyfive-article/SixtyFive6.jpg'
+  path: '/assets/img/blog/sixtyfive-article/SixtyFive6.avif'
   alt: 'Post Banner'
+  width: 1080
+  height: 1146
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/sixtyfive-article/SixtyFive6.jpg" alt="Image by Nainaigogo" title="Mode SixtyFive"
+<img src="/assets/img/blog/sixtyfive-article/SixtyFive6.avif" alt="Image by Nainaigogo" title="Mode SixtyFive"
+     width="1080" height="1146" loading="eager"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -26,10 +29,13 @@ In 2021, they released the original SixtyFive, which was well received for its b
 
 <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 my-6">
   <img src="/assets/img/blog/sixtyfive-article/SixtyFive1.png" alt="Mode Designs" title="Mode Designs"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
   <img src="/assets/img/blog/sixtyfive-article/SixtyFive2.png" alt="Mode Designs" title="Mode Designs"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
   <img src="/assets/img/blog/sixtyfive-article/SixtyFive7.png" alt="Mode Designs" title="Mode Designs"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -48,6 +54,7 @@ This brings us to another specialty of Mode: their configurator, which was first
 After the pre-order window, Mode tries to keep a certain amount of parts in stock and regularly restocks these parts. This allows hobbyists to get replacements or try a different plate material if they want.
 
 <img src="/assets/img/blog/sixtyfive-article/ModeWeights.png" alt="Weights" title="Weights"
+     loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -59,9 +66,11 @@ Corporate design is a term that many of us have heard of, especially if we've wo
 Following this, we can see how Mode has implemented this concept into all of their boards since the Sonnet, including the Envoy (a cheaper, one-part case design), the Tempo (a HHKB-style keyboard), and the Loop (a TKL). All of these boards have one thing in common: their accent bar. This makes Mode boards easily recognizable from far and up close.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/sixtyfive-article/SixtyFive3.jpg" alt="Gehirn TKL Images" title="Alexotos"
+  <img src="/assets/img/blog/sixtyfive-article/SixtyFive3.avif" alt="Gehirn TKL Images" title="Alexotos"
+       width="1080" height="1350" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/sixtyfive-article/SixtyFive4.jpg" alt="Gehirn TKL Images" title="Alexotos"
+  <img src="/assets/img/blog/sixtyfive-article/SixtyFive4.avif" alt="Gehirn TKL Images" title="Alexotos"
+       width="1080" height="1350" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -72,6 +81,7 @@ Following this, we can see how Mode has implemented this concept into all of the
 Now, let's talk about the New SixtyFive. It combines the aesthetics of the old SixtyFive with modern internals and a preference for new colors and materials. The board boasts the same mounting system that was introduced in the Envoy: lattice mounts. They are a type of gasket mount that allows for different typing feelings and also works for creating an isolated topmount.
 
 <img src="/assets/img/blog/sixtyfive-article/Latticemount.png" alt="lattice mount" title="lattice mount"
+     loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">

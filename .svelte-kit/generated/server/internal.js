@@ -26,7 +26,7 @@ export const options = {
 		app: ({ head, body, assets, nonce, env }) => "<!doctype html>\n<html lang=\"en\">\n  <head>\n    <meta charset=\"utf-8\" />\n    <link rel=\"icon\" href=\"../assets/svg/Favicon.svg\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n    <script defer data-domain=\"logolicusz.com\" src=\"https://analytics.lunivity.com/js/script.js\"></script>\n    " + head + "\n  </head>\n  <body data-sveltekit-preload-data=\"hover\">\n    <div style=\"display: contents\">" + body + "</div>\n  </body>\n</html>",
 		error
 	},
-	version_hash: "12cbn84"
+	version_hash: "icg74o"
 };
 
 export async function get_hooks() {

@@ -33,6 +33,9 @@
 					<img
 						src={image.src}
 						alt={image.alt}
+						width={image.width}
+						height={image.height}
+						loading="lazy"
 						class="mb-4 block w-full break-inside-avoid cursor-zoom-in rounded-sm transition-transform hover:scale-[0.985]"
 					/>
 				</a>

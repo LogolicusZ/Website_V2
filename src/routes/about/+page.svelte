@@ -28,6 +28,8 @@
       <img
         src="/assets/img/about_image.avif"
         alt="Profile photo"
+        width="4128"
+        height="5504"
         class="w-full max-w-md mx-auto md:mx-0 rounded-2xl shadow-sm"
       />
     </div>

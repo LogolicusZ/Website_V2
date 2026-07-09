@@ -5,14 +5,17 @@ date: '2024-06-12'
 description: A interesting backstory
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/noodle/noodle7.jpg'
+  path: '/assets/img/blog/noodle/noodle7.avif'
   alt: 'Post Banner'
+  width: 6000
+  height: 4000
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/noodle/noodle7.jpg" alt="Noodle.Zip photo" title="logolicusz"
+<img src="/assets/img/blog/noodle/noodle7.avif" alt="Noodle.Zip photo" title="logolicusz"
+     width="6000" height="4000" loading="eager"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -24,9 +27,11 @@ The [Noodle.Zip](http://Noodle.Zip) is a limited-edition keyboard (only 30 units
 The keyboard's design includes various engravings that reference Miyeon, such as her name in Korean and her well-known Instagram profile picture.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/noodle/noodle16.jpg" alt="Noodle.Zip photo" title="LogolicusZ"
+  <img src="/assets/img/blog/noodle/noodle16.avif" alt="Noodle.Zip photo" title="LogolicusZ"
+       width="4000" height="6000" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/noodle/noodle18.jpg" alt="Noodle.Zip photo" title="LogolicusZ"
+  <img src="/assets/img/blog/noodle/noodle18.avif" alt="Noodle.Zip photo" title="LogolicusZ"
+       width="4000" height="6000" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -38,7 +43,8 @@ The [Noodle.Zip](http://Noodle.Zip) is a classic F12, WKL keyboard with a typing
 
 The keyboard's color is misty lilac, which can appear pale or saturated depending on the lighting.
 
-<img src="/assets/img/blog/noodle/noodle8.jpg" alt="Noodle.Zip photo" title="LogolicusZ"
+<img src="/assets/img/blog/noodle/noodle8.avif" alt="Noodle.Zip photo" title="LogolicusZ"
+     width="6000" height="4000" loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">

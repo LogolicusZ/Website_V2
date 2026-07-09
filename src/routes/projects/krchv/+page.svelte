@@ -9,7 +9,7 @@
    This page like, my main Website, is using <a href="https://svelte.dev/">SvelteKit</a> and <a href="https://tailwindcss.com/">Tailwindcss </a>.
   </p>
 
-  <img src="/assets/img/krchv_screenshot.avif" class="rounded-sm" />
+  <img src="/assets/img/krchv_screenshot.avif" width="1973" height="1207" class="rounded-sm" />
 
   <div class="mt-8 space-y-3">
     <p class="text-m uppercase opacity-50">Links</p>

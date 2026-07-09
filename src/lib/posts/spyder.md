@@ -4,14 +4,17 @@ date: '2024-04-21'
 description: The Spyder TKL and its Inspirations
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/spyder-article/Spyder5.jpeg'
+  path: '/assets/img/blog/spyder-article/Spyder5.avif'
   alt: 'Post Banner'
+  width: 1440
+  height: 1152
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/spyder-article/Spyder5.jpeg" alt="Spyder TKL Images" title="Image by extra Prius"
+<img src="/assets/img/blog/spyder-article/Spyder5.avif" alt="Spyder TKL Images" title="Image by extra Prius"
+     width="1440" height="1152" loading="eager"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -22,7 +25,8 @@ In 1953, Porsche introduced the 550 Spyder into the market at a Paris Motor Show
 
 Speeding trough the years, the spyder went trough numerous changes build up to the release of the 718 Spyder in 2015. Porsche payed homage to one of its best cars this past century, while still incorporating modern engineering advancements. The 718 features aggressive fron edges and a spoiler reminiscent of the 718 Boxster.
 
-<img src="/assets/img/blog/spyder-article/car1.jpg" alt="Spyder 550" title="Image by extra Prius"
+<img src="/assets/img/blog/spyder-article/car1.avif" alt="Spyder 550" title="Image by extra Prius"
+     width="2333" height="3500" loading="lazy"
      class="block mx-auto w-2/5 rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -33,7 +37,8 @@ Tho the Inspiration on of the Porsche is very light, as some of you that have be
 
 The Spyder effortlessly blends classic and modern design aspects, which have been seen in multiple of the most influentaial boards in this hobby. Creating a timeless piece that will look good on every desk you put it on. Plyworks also opted to use the Hiney87 pcb layout ensuring that the buyers can get replacement PCB easily.
 
-<img src="/assets/img/blog/spyder-article/Spyder6.jpg" alt="Spyder 550" title="Image by Captainsterling"
+<img src="/assets/img/blog/spyder-article/Spyder6.avif" alt="Spyder 550" title="Image by Captainsterling"
+     width="5839" height="3893" loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">

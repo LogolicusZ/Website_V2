@@ -7,12 +7,15 @@ tags: [showcase, keyboards]
 banner:
   path: '/assets/img/blog/protagonist-article/protagonist-11.webp'
   alt: 'Post Banner'
+  width: 3840
+  height: 2160
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
 ---
 
 <img src="/assets/img/blog/protagonist-article/protagonist-11.webp" alt="Render of Protagonist" title="Render of Protagonist"
+     loading="eager"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -24,9 +27,11 @@ After being in the keyboard hobby for a few years, I have to say that one thing 
 According to the Protagonist's designer Randall, the owner of Wired In, the industry has always been creative with their designs. However, for some reason, creativity has often been focused on the sides or bottom of keyboards. The sides are often not visible from a typing perspective, and the bottom is usually on the desk. As a result, you rarely get to see the design. Some designers have found a solution by adding small badges to their boards, like the 7v from Gok or the Tomo from Monokei, to add interest to the top. This often means sacrificing 1-2 keys, depending on the layout.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-13.jpg" alt="Image of 7v" title="Image of 7v"
+  <img src="/assets/img/blog/protagonist-article/protagonist-13.avif" alt="Image of 7v" title="Image of 7v"
+       width="1440" height="1440" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-12.jpg" alt="Image of Tomo" title="Image of Tomo"
+  <img src="/assets/img/blog/protagonist-article/protagonist-12.avif" alt="Image of Tomo" title="Image of Tomo"
+       width="1440" height="1800" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -38,9 +43,11 @@ According to the Protagonist's designer Randall, the owner of Wired In, the indu
 Randall believes that the Sonnet from Mode Designs was so successful because of its innovative accent bar. This feature stretched across the full top length of the keyboard, creating a customization option that buyers could see and enjoy every day. It was a unique feature that was prominently displayed on the top of the keyboard.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-14.jpg" alt="Image of Sonnet" title="Image of Sonnet"
+  <img src="/assets/img/blog/protagonist-article/protagonist-14.avif" alt="Image of Sonnet" title="Image of Sonnet"
+       width="1440" height="1800" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-4.jpg" alt="Image of Protagonist" title="Image of Protagonist"
+  <img src="/assets/img/blog/protagonist-article/protagonist-4.avif" alt="Image of Protagonist" title="Image of Protagonist"
+       width="1440" height="1528" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -54,9 +61,11 @@ Outside of the Sonnet, there was a lack of customization options that were both 
 Randall wanted the Protagonist to have a deceivingly simple profile, yet still be modern and sleek. He wanted this design to flow seamlessly from the underside to the side profile of the board. As he put it, "Where it was 'what you know' but had some oomph." This led him to design big bezels and a proportioned weight, which had a simple profile but added character with its dip to meet the side of the heavy weight.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-1.jpg" alt="Image of Protagonist" title="Image of Protagonist"
+  <img src="/assets/img/blog/protagonist-article/protagonist-1.avif" alt="Image of Protagonist" title="Image of Protagonist"
+       width="1080" height="1080" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-2.jpg" alt="Image of Protagonist" title="Image of Protagonist"
+  <img src="/assets/img/blog/protagonist-article/protagonist-2.avif" alt="Image of Protagonist" title="Image of Protagonist"
+       width="1080" height="1080" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -68,7 +77,8 @@ After bringing the design to life, hobbyists saw that they could personalize the
 
 As he refined the design, he noticed that the top case accent turned into a sort of picture frame surrounding the keys.
 
-<img src="/assets/img/blog/protagonist-article/protagonist-5.jpg" alt="Image of Protagonist" title="Image of Protagonist"
+<img src="/assets/img/blog/protagonist-article/protagonist-5.avif" alt="Image of Protagonist" title="Image of Protagonist"
+     width="1440" height="1528" loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -79,8 +89,10 @@ He decided to call it the "Keyframe". The next step was figuring out how to conn
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
   <img src="/assets/img/blog/protagonist-article/protagonist-9.webp" alt="Render of protagonist exploded" title="Render of protagonist exploded"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
   <img src="/assets/img/blog/protagonist-article/protagonist-10.webp" alt="Image of Protagonist Keyframes" title="Image of Protagonist Keyframes"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 

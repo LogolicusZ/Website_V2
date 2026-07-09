@@ -4,14 +4,17 @@ date: '2024-04-25'
 description: A new profile
 tags: [showcase, keyboards]
 banner:
-  path: '/assets/img/blog/rascals/MTNU-1.jpeg'
+  path: '/assets/img/blog/rascals/MTNU-1.avif'
   alt: 'Post Banner'
+  width: 1920
+  height: 1080
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/rascals/MTNU-1.jpeg" alt="Render by Afresh" title="Rascals"
+<img src="/assets/img/blog/rascals/MTNU-1.avif" alt="Render by Afresh" title="Rascals"
+     width="1920" height="1080" loading="eager"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -23,6 +26,7 @@ Let's start with a bit of backstory. Some of you may know the name GMK very well
 They are known for their Doubleshot ABS keycaps, which have a vast array of color and design choices. GMK until last year only produced in Cherry profile, which was introduced by Cherry in the 1980s. Many have adapted this profile, and it still gets used to this day, mostly on mechanical keyboards like gaming keyboards from Logitech or Razer.
 
 <img src="/assets/img/blog/rascals/MTNU-4.webp" alt="Image by GMK" title="Keycap profiles"
+     loading="lazy"
      class="block mx-auto w-full max-w-md rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -37,10 +41,13 @@ After this, the first released sets with the new MTNU profile were classics like
 
 <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 my-6">
   <img src="/assets/img/blog/rascals/MTNU-7.webp" alt="Image by GMK" title="Image by GMK"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
   <img src="/assets/img/blog/rascals/MTNU-8.webp" alt="Image by GMK" title="Image by GMK"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
   <img src="/assets/img/blog/rascals/MTNU-9.webp" alt="Image by GMK" title="Image by GMK"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -54,8 +61,10 @@ Afresh wanted to create a set about two characters that are constantly at war in
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
   <img src="/assets/img/blog/rascals/MTNU-6.gif" alt="Afresh logo gif" title="Afresh logo gif"
+       loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/rascals/MTNU-5.jpeg" alt="MTNU keycaps" title="MTNU keycaps"
+  <img src="/assets/img/blog/rascals/MTNU-5.avif" alt="MTNU keycaps" title="MTNU keycaps"
+       width="1320" height="1320" loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
 
@@ -72,6 +81,7 @@ After deciding on the colors of the set, he went straight to working on the nove
 After this, he worked on creating renders for the set. For this, he used Blender, which is the most used tool for rendering in the hobby. To streamline the process of creating the renders, he used the Keyboard Render Kit 2, which is a focused UI layout arranged to present useful tools and content to help anyone who wants to create a keycap set. This tool was created by [Imperfectlink](https://imperfectlink.gumroad.com/l/KRK2?layout=profile).
 
 <img src="/assets/img/blog/rascals/MTNU-10.png" alt="Keyboard Rendering kit 2" title="Rascals"
+     loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -88,7 +98,8 @@ They significantly shortened the process of color matching, which usually would 
 
 He is expecting to receive the color samples very soon, while also expecting to update the IC with the vendors that are going to run the set and some new renders.
 
-<img src="/assets/img/blog/rascals/MTNU-2.jpeg" alt="Render by Afresh" title="Rascals"
+<img src="/assets/img/blog/rascals/MTNU-2.avif" alt="Render by Afresh" title="Rascals"
+     width="3840" height="2160" loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
