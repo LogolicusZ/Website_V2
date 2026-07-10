@@ -28,13 +28,13 @@ In 2020, they released their first keyboard the Mode Eighty, which was updated i
 In 2021, they released the original SixtyFive, which was well received for its bold design and generous amounts of customization. After three years, the company decided to revisit the feedback they had received on the original keyboard. As Mode states, this project has been a labor of love for them, showcasing their passion for keyboards and their own designs. The new SixtyFive returns with an updated design while staying true to its roots.
 
 <div class="grid grid-cols-1 sm:grid-cols-3 gap-3 my-6">
-  <img src="/assets/img/blog/sixtyfive-article/SixtyFive1.png" alt="Mode Designs" title="Mode Designs"
+  <img src="/assets/img/blog/sixtyfive-article/SixtyFive1.avif" alt="Mode Designs" title="Mode Designs"
        loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/sixtyfive-article/SixtyFive2.png" alt="Mode Designs" title="Mode Designs"
+  <img src="/assets/img/blog/sixtyfive-article/SixtyFive2.avif" alt="Mode Designs" title="Mode Designs"
        loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/sixtyfive-article/SixtyFive7.png" alt="Mode Designs" title="Mode Designs"
+  <img src="/assets/img/blog/sixtyfive-article/SixtyFive7.avif" alt="Mode Designs" title="Mode Designs"
        loading="lazy"
        class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
 </div>
@@ -53,7 +53,7 @@ This brings us to another specialty of Mode: their configurator, which was first
 
 After the pre-order window, Mode tries to keep a certain amount of parts in stock and regularly restocks these parts. This allows hobbyists to get replacements or try a different plate material if they want.
 
-<img src="/assets/img/blog/sixtyfive-article/ModeWeights.png" alt="Weights" title="Weights"
+<img src="/assets/img/blog/sixtyfive-article/ModeWeights.avif" alt="Weights" title="Weights"
      loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
@@ -80,7 +80,7 @@ Following this, we can see how Mode has implemented this concept into all of the
 
 Now, let's talk about the New SixtyFive. It combines the aesthetics of the old SixtyFive with modern internals and a preference for new colors and materials. The board boasts the same mounting system that was introduced in the Envoy: lattice mounts. They are a type of gasket mount that allows for different typing feelings and also works for creating an isolated topmount.
 
-<img src="/assets/img/blog/sixtyfive-article/Latticemount.png" alt="lattice mount" title="lattice mount"
+<img src="/assets/img/blog/sixtyfive-article/Latticemount.avif" alt="lattice mount" title="lattice mount"
      loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 

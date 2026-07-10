@@ -80,7 +80,7 @@ After deciding on the colors of the set, he went straight to working on the nove
 
 After this, he worked on creating renders for the set. For this, he used Blender, which is the most used tool for rendering in the hobby. To streamline the process of creating the renders, he used the Keyboard Render Kit 2, which is a focused UI layout arranged to present useful tools and content to help anyone who wants to create a keycap set. This tool was created by [Imperfectlink](https://imperfectlink.gumroad.com/l/KRK2?layout=profile).
 
-<img src="/assets/img/blog/rascals/MTNU-10.png" alt="Keyboard Rendering kit 2" title="Rascals"
+<img src="/assets/img/blog/rascals/MTNU-10.avif" alt="Keyboard Rendering kit 2" title="Rascals"
      loading="lazy"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 

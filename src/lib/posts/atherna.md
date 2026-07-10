@@ -5,7 +5,7 @@ date: "2024-06-15"
 description: How I made a keyboard
 tags: [showcase, keyboards]
 banner:
-  path: "/assets/img/blog/atherna/atherna2.png"
+  path: "/assets/img/blog/atherna/atherna2.avif"
   alt: "Post Banner"
   width: 3840
   height: 2160
@@ -14,7 +14,7 @@ author:
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/atherna/atherna7.png" alt="atherna" title="logolicusz"
+<img src="/assets/img/blog/atherna/atherna7.avif" alt="atherna" title="logolicusz"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -41,7 +41,7 @@ I began by researching the tools commonly used by keyboard designers. Fusion 360
 
 I started designing a basic F12 TKL, which was my first time using CAD software. I had difficulty picking up the tool because of its many options. However, after watching some of Hali's YouTube tutorials, I was able to create my first TKL, which is my favorite layout. I began with the classic top-mount style, as it is simple to learn.
 
-<img src="/assets/img/blog/atherna/atherna3.png" alt="ducking" title="logolicusz"
+<img src="/assets/img/blog/atherna/atherna3.avif" alt="ducking" title="logolicusz"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -68,7 +68,7 @@ After setting a list of changes, I started working on the design. Some changes, 
 
 You might be wondering about the specific engraving on the bottom. It has two meanings. Firstly, the hands are from another project I worked on with a friend called "disky and friends." I reused the hand design from that project.
 
-<img src="/assets/img/blog/atherna/atherna6.png" alt="ducking" title="logolicusz"
+<img src="/assets/img/blog/atherna/atherna6.avif" alt="ducking" title="logolicusz"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
@@ -77,7 +77,7 @@ You might be wondering about the specific engraving on the bottom. It has two me
 
 Secondly, the hands form a "Z." This is a reference to my username, "logolicusZ," which I have had since childhood and wanted to incorporate subtly. Instead of just adding my name as a signature, I wanted to be more creative, so I chose to use the hands to form a "Z." It's not too obvious but can be noticed by those who know.
 
-<img src="/assets/img/blog/atherna/atherna4.png" alt="ducking" title="logolicusz"
+<img src="/assets/img/blog/atherna/atherna4.avif" alt="ducking" title="logolicusz"
      class="w-full rounded-md border-2 border-zinc-800 my-6" />
 
 <p class="text-sm text-center text-gray-500 -mt-4 mb-8">
