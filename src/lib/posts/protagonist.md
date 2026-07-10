@@ -14,91 +14,97 @@ author:
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/protagonist-article/protagonist-11.webp" alt="Render of Protagonist" title="Render of Protagonist"
-     loading="eager"
-     class="w-full rounded-md border-2 border-zinc-800 my-6" />
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Render by <a href="https://www.instagram.com/zetina.kb/" class="underline hover:text-gray-700">ZetinaKB</a>
-</p>
+<figure class="my-6">
+  <img src="/assets/img/blog/protagonist-article/protagonist-11.webp" alt="Render of Protagonist" title="Render of Protagonist"
+       loading="eager"
+       class="w-full rounded-md border-2 border-zinc-800" />
+  <figcaption class="text-sm text-center text-gray-500">
+    Render by <a href="https://www.instagram.com/zetina.kb/" class="underline hover:text-gray-700">ZetinaKB</a>
+  </figcaption>
+</figure>
 
 After being in the keyboard hobby for a few years, I have to say that one thing that hasn't changed much is the top frame. We've stuck to the same formula: thin or thicker bezels. But that's where the Protagonist shines.
 
 According to the Protagonist's designer Randall, the owner of Wired In, the industry has always been creative with their designs. However, for some reason, creativity has often been focused on the sides or bottom of keyboards. The sides are often not visible from a typing perspective, and the bottom is usually on the desk. As a result, you rarely get to see the design. Some designers have found a solution by adding small badges to their boards, like the 7v from Gok or the Tomo from Monokei, to add interest to the top. This often means sacrificing 1-2 keys, depending on the layout.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-13.avif" alt="Image of 7v" title="Image of 7v"
-       width="1440" height="1440" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-12.avif" alt="Image of Tomo" title="Image of Tomo"
-       width="1440" height="1800" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-</div>
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photo by <a href="https://www.instagram.com/tylerkeyboard/" class="underline hover:text-gray-700">Tylerkeyboard</a>,
-  Photo by <a href="https://www.instagram.com/taehatypes/" class="underline hover:text-gray-700">Taehatypes</a>
-</p>
+<figure class="my-6">
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+    <img src="/assets/img/blog/protagonist-article/protagonist-13.avif" alt="Image of 7v" title="Image of 7v"
+         width="1440" height="1440" loading="lazy"
+         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+    <img src="/assets/img/blog/protagonist-article/protagonist-12.avif" alt="Image of Tomo" title="Image of Tomo"
+         width="1440" height="1800" loading="lazy"
+         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+  </div>
+  <figcaption class="text-sm text-center text-gray-500">
+    Photo by <a href="https://www.instagram.com/tylerkeyboard/" class="underline hover:text-gray-700">Tylerkeyboard</a>,
+    Photo by <a href="https://www.instagram.com/taehatypes/" class="underline hover:text-gray-700">Taehatypes</a>
+  </figcaption>
+</figure>
 
 Randall believes that the Sonnet from Mode Designs was so successful because of its innovative accent bar. This feature stretched across the full top length of the keyboard, creating a customization option that buyers could see and enjoy every day. It was a unique feature that was prominently displayed on the top of the keyboard.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-14.avif" alt="Image of Sonnet" title="Image of Sonnet"
-       width="1440" height="1800" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-4.avif" alt="Image of Protagonist" title="Image of Protagonist"
-       width="1440" height="1528" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-</div>
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>,
-  Photo by <a href="https://www.instagram.com/nainaigogo/" class="underline hover:text-gray-700">Nainaigogo</a>
-</p>
+<figure class="my-6">
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+    <img src="/assets/img/blog/protagonist-article/protagonist-14.avif" alt="Image of Sonnet" title="Image of Sonnet"
+         width="1440" height="1800" loading="lazy"
+         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+    <img src="/assets/img/blog/protagonist-article/protagonist-4.avif" alt="Image of Protagonist" title="Image of Protagonist"
+         width="1440" height="1528" loading="lazy"
+         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+  </div>
+  <figcaption class="text-sm text-center text-gray-500">
+    Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>,
+    Photo by <a href="https://www.instagram.com/nainaigogo/" class="underline hover:text-gray-700">Nainaigogo</a>
+  </figcaption>
+</figure>
 
 Outside of the Sonnet, there was a lack of customization options that were both viewable and usable. Randall, a strong advocate for customization and personalization, began brainstorming ideas to bring this philosophy to life. He envisioned a design that would be both minimal and modern, with clean lines and a focus on simplicity.
 
 Randall wanted the Protagonist to have a deceivingly simple profile, yet still be modern and sleek. He wanted this design to flow seamlessly from the underside to the side profile of the board. As he put it, "Where it was 'what you know' but had some oomph." This led him to design big bezels and a proportioned weight, which had a simple profile but added character with its dip to meet the side of the heavy weight.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-1.avif" alt="Image of Protagonist" title="Image of Protagonist"
-       width="1080" height="1080" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-2.avif" alt="Image of Protagonist" title="Image of Protagonist"
-       width="1080" height="1080" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-</div>
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photos by <a href="https://www.instagram.com/extrapriusplease.kb/" class="underline hover:text-gray-700">Extrpriusplease.kb</a>
-</p>
+<figure class="my-6">
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+    <img src="/assets/img/blog/protagonist-article/protagonist-1.avif" alt="Image of Protagonist" title="Image of Protagonist"
+         width="1080" height="1080" loading="lazy"
+         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+    <img src="/assets/img/blog/protagonist-article/protagonist-2.avif" alt="Image of Protagonist" title="Image of Protagonist"
+         width="1080" height="1080" loading="lazy"
+         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+  </div>
+  <figcaption class="text-sm text-center text-gray-500">
+    Photos by <a href="https://www.instagram.com/extrapriusplease.kb/" class="underline hover:text-gray-700">Extrpriusplease.kb</a>
+  </figcaption>
+</figure>
 
 After bringing the design to life, hobbyists saw that they could personalize their design. Randall first started with an idea of having a two-toned and a customizable top case, but he thought this didn't really match his vision since it wasn't really a customization feature or very unique. He wanted to blend the materials in a way that it would also be visible from the top, thus. This led to the use of the bezels to mix with the surrounding area of the keys. This smaller size also allowed for more the idea of it being an "accent", as well as personifying the intentionality behind mixing materials.
 
 As he refined the design, he noticed that the top case accent turned into a sort of picture frame surrounding the keys.
 
-<img src="/assets/img/blog/protagonist-article/protagonist-5.avif" alt="Image of Protagonist" title="Image of Protagonist"
-     width="1440" height="1528" loading="lazy"
-     class="w-full rounded-md border-2 border-zinc-800 my-6" />
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photo by <a href="https://www.instagram.com/nainaigogo" class="underline hover:text-gray-700">Nainaigogo</a>
-</p>
+<figure class="my-6">
+  <img src="/assets/img/blog/protagonist-article/protagonist-5.avif" alt="Image of Protagonist" title="Image of Protagonist"
+       width="1440" height="1528" loading="lazy"
+       class="w-full rounded-md border-2 border-zinc-800" />
+  <figcaption class="text-sm text-center text-gray-500">
+    Photo by <a href="https://www.instagram.com/nainaigogo" class="underline hover:text-gray-700">Nainaigogo</a>
+  </figcaption>
+</figure>
 
 He decided to call it the "Keyframe". The next step was figuring out how to connect the keyframe to the top frame. This led to some design questions: how would it come apart? How could they simplify it? Should they use magnets? In the end, they settled on four small screws, making it secure yet easy to swap out, since magnets weren't feasible due to the "Keyframe's" shape.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-9.webp" alt="Render of protagonist exploded" title="Render of protagonist exploded"
-       loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/protagonist-article/protagonist-10.webp" alt="Image of Protagonist Keyframes" title="Image of Protagonist Keyframes"
-       loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-</div>
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Render and Photo by <a href="https://www.instagram.com/wiredinstore/" class="underline hover:text-gray-700">Wired In</a>
-</p>
+<figure class="my-6">
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+    <img src="/assets/img/blog/protagonist-article/protagonist-9.webp" alt="Render of protagonist exploded" title="Render of protagonist exploded"
+         loading="lazy"
+         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+    <img src="/assets/img/blog/protagonist-article/protagonist-10.webp" alt="Image of Protagonist Keyframes" title="Image of Protagonist Keyframes"
+         loading="lazy"
+         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+  </div>
+  <figcaption class="text-sm text-center text-gray-500">
+    Render and Photo by <a href="https://www.instagram.com/wiredinstore/" class="underline hover:text-gray-700">Wired In</a>
+  </figcaption>
+</figure>
 
 The Protagonist keyboard starts at $349.99 and will be available in three layouts: WK, WKL, and HHKB. It also features a 7-degree typing angle and a front height of 18.8mm. Randall has taken a similar approach to Mode and created a configurator that updates based on your choices.
 

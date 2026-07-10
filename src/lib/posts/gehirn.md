@@ -14,13 +14,14 @@ author:
   social: https://www.instagram.com/logolicusz
 ---
 
-<img src="/assets/img/blog/Gehirn-article/Gehirn13.avif" alt="Gehirn TKL Images" title="Markerchun"
-     width="2800" height="2100" loading="eager"
-     class="w-full rounded-md border-2 border-zinc-800 my-6" />
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photo by <a href="https://www.instagram.com/markerchun/" class="underline hover:text-gray-700">Markerchun</a>
-</p>
+<figure class="my-6">
+  <img src="/assets/img/blog/Gehirn-article/Gehirn13.avif" alt="Gehirn TKL Images" title="Markerchun"
+       width="2800" height="2100" loading="eager"
+       class="w-full rounded-md border-2 border-zinc-800" />
+  <figcaption class="text-sm text-center text-gray-500">
+    Photo by <a href="https://www.instagram.com/markerchun/" class="underline hover:text-gray-700">Markerchun</a>
+  </figcaption>
+</figure>
 
 The Gehirn marks Baionlenja's return to the customs scene. After being scammed by his manufacturer on the GB of the Bias R2, many thought he would never return. Despite explaining his situation to his Discord members, many remained skeptical and believed he intended to make an exit scam.
 
@@ -28,18 +29,19 @@ In recent times, a multitude of exit scams have plagued the hobby, leaving many 
 
 Regarding Baion, Manu, one of the most well-known vendor managers, has taken him under his wing to guide him out of debt. The Gehirn marks the beginning of Baion's redemption, as some might say. According to Manu, his plan is to create new projects that won't be run by Baionlenja directly but will be managed by vendors instead. This is to ensure that people won't feel like they're being scammed again.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-3 my-6">
-  <img src="/assets/img/blog/Gehirn-article/Gehirn1.avif" alt="Gehirn TKL Images" title="Alexotos"
-       width="1440" height="1440" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-  <img src="/assets/img/blog/Gehirn-article/Gehirn2.avif" alt="Gehirn TKL Images" title="Alexotos"
-       width="1440" height="1440" loading="lazy"
-       class="w-full h-full object-cover rounded-md border-2 border-zinc-800" />
-</div>
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>
-</p>
+<figure class="my-6">
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+    <img src="/assets/img/blog/Gehirn-article/Gehirn1.avif" alt="Gehirn TKL Images" title="Alexotos"
+         width="1440" height="1440" loading="lazy"
+         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+    <img src="/assets/img/blog/Gehirn-article/Gehirn2.avif" alt="Gehirn TKL Images" title="Alexotos"
+         width="1440" height="1440" loading="lazy"
+         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+  </div>
+  <figcaption class="text-sm text-center text-gray-500">
+    Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>
+  </figcaption>
+</figure>
 
 Now, let's discuss the design of the board. The Gehirn is a classic F12 top mount board that draws inspiration from HR Giger and Y2K aesthetics.
 
@@ -51,12 +53,13 @@ Unlike traditional screw-less boards that have holes on the top and bottom of th
 
 Many people appreciate this feature as it eliminates the need to open up the entire case just to retrieve a lost screw.
 
-<img src="/assets/img/blog/Gehirn-article/Gehirn12.webp" alt="Gehirn TKL Images" title="Baionlenja"
-     class="w-full rounded-md border-2 border-zinc-800 my-6" />
-
-<p class="text-sm text-center text-gray-500 -mt-4 mb-8">
-  Photo by <a href="https://www.instagram.com/baionlenja" class="underline hover:text-gray-700">Baionlenja</a>
-</p>
+<figure class="my-6">
+  <img src="/assets/img/blog/Gehirn-article/Gehirn12.webp" alt="Gehirn TKL Images" title="Baionlenja"
+       class="w-full rounded-md border-2 border-zinc-800" />
+  <figcaption class="text-sm text-center text-gray-500">
+    Photo by <a href="https://www.instagram.com/baionlenja" class="underline hover:text-gray-700">Baionlenja</a>
+  </figcaption>
+</figure>
 
 The keyboard hobby has been shifting towards in-stock sales, and the Gehirn follows this trend. It will have two rounds, each with its own unique colors. This means that you will only have the opportunity to purchase the specific colors you want during each round.
 
