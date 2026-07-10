@@ -35,7 +35,7 @@
   ];
 </script>
 
-<section class="w-full px-2.5 py-2.5">
+<section class="mx-auto max-w-7xl w-full px-2.5 py-2.5">
   <!-- Header -->
   <header class="flex flex-col md:flex-row md:items-baseline md:justify-between gap-2 mb-8 md:mb-10">
     <div class="order-2 md:order-1">

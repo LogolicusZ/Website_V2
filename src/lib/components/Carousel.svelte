@@ -54,15 +54,15 @@
   ontouchstart={handleTouchStart}
   ontouchend={handleTouchEnd}
 >
-  <div class="relative w-full overflow-hidden rounded-sm">
+  <div class="relative w-full aspect-4/3 max-h-[min(65dvh,700px)] overflow-hidden rounded-sm">
     {#each images as image, i}
       <img
         src={image.src}
         alt={image.alt}
         loading={i === 0 ? 'eager' : 'lazy'}
-        class="w-full h-auto transition-opacity duration-500 ease-in-out {i === current
-          ? 'opacity-100 relative'
-          : 'opacity-0 absolute inset-0 pointer-events-none'}"
+        class="absolute inset-0 h-full w-full object-cover transition-opacity duration-500 ease-in-out {i === current
+          ? 'opacity-100'
+          : 'opacity-0 pointer-events-none'}"
       />
     {/each}
   </div>
