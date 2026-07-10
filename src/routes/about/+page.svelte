@@ -2,40 +2,31 @@
   import { fly } from 'svelte/transition';
   import { inview } from '$lib/utils/inview';
 
-  const codingSkills = [
-    "Web Development",
-    "Docker",
-    "Linux Server",
-    "Git",
-    "Virtualization",
-    "Ansible",
-    "Kubernetes",
-  ];
-
-  const designSkills = [
-    "Figma (Software)",
-    "Fusion 360 (Software)",
-    "Lightroom (Software)"
-  ];
-
-  const hobbies = [
-    "Mechanical Keyboards",
-    "Photography",
-    "Painting"
+  const skillGroups = [
+    {
+      title: 'Coding / Sysadmin',
+      items: ['Web Development', 'Docker', 'Linux Server', 'Git', 'Virtualization', 'Ansible', 'Kubernetes']
+    },
+    {
+      title: 'Design',
+      items: ['Figma (Software)', 'Fusion 360 (Software)', 'Lightroom (Software)']
+    },
+    {
+      title: 'Hobbies & Interests',
+      items: ['Mechanical Keyboards', 'Photography', 'Painting']
+    }
   ];
 </script>
 
 <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
-  <div class="grid md:grid-cols-2 gap-10 items-center mb-16" in:fly={{ y: 16, duration: 500 }}>
-    <div class="w-full">
-      <img
-        src="/assets/img/about_image.avif"
-        alt="Profile photo"
-        width="4128"
-        height="5504"
-        class="w-full max-w-md mx-auto md:mx-0 rounded-2xl shadow-sm"
-      />
-    </div>
+  <div class="grid md:grid-cols-2 gap-10 md:gap-14 items-start mb-16" in:fly={{ y: 16, duration: 500 }}>
+    <img
+      src="/assets/img/about_image.avif"
+      alt="Logolicusz standing outdoors, wearing a Baker's Soul t-shirt"
+      width="4128"
+      height="5504"
+      class="w-full max-w-md mx-auto md:mx-0 aspect-4/5 rounded-2xl object-cover shadow-sm"
+    />
 
     <div>
       <h1 class="text-4xl sm:text-5xl font-serif mb-6">
@@ -53,50 +44,24 @@
     </div>
   </div>
 
-  <div class="space-y-16">
+  <div class="space-y-12 sm:space-y-16">
+    {#each skillGroups as group}
+      <div use:inview class="reveal">
+        <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
+          {group.title}
+        </h2>
 
-    <div use:inview class="reveal">
-      <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
-        Coding / Sysadmin
-      </h2>
-
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {#each codingSkills as skill}
-          <div class="border border-primary rounded-xl px-4 py-3 text-sm sm:text-base">
-            {skill}
-          </div>
-        {/each}
+        <ul class="flex flex-wrap gap-2.5">
+          {#each group.items as item}
+            <li
+              class="rounded-full border border-zinc-800/15 bg-black/2 px-4 py-2 text-sm sm:text-base transition-colors hover:border-primary/50"
+            >
+              {item}
+            </li>
+          {/each}
+        </ul>
       </div>
-    </div>
-
-    <div use:inview class="reveal">
-      <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
-        Design
-      </h2>
-
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {#each designSkills as skill}
-          <div class="border border-primary rounded-xl px-4 py-3 text-sm sm:text-base">
-            {skill}
-          </div>
-        {/each}
-      </div>
-    </div>
-
-    <div use:inview class="reveal">
-      <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
-        Hobbies & Interests
-      </h2>
-
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {#each hobbies as hobby}
-          <div class="border border-primary rounded-xl px-4 py-3 text-sm sm:text-base">
-            {hobby}
-          </div>
-        {/each}
-      </div>
-    </div>
-
+    {/each}
   </div>
 
 </section>
