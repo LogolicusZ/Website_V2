@@ -79,7 +79,7 @@
           </p>
         </div>
 
-        {#if data.posts.length > 0}
+        {#if data.posts.length > 0 || data.projects.length > 0}
           <div
             class="mt-10 flex items-center gap-2 text-sm tracking-wide text-neutral-400 md:justify-end"
             in:fly={{ y: 16, duration: 700, delay: 300 }}
@@ -90,6 +90,35 @@
         {/if}
       {/if}
     </section>
+
+    {#if data.projects.length > 0}
+      <section class="pb-16">
+        <h2 use:inview class="reveal mb-6 text-sm tracking-[0.2em] text-neutral-400 uppercase">
+          Projects
+        </h2>
+
+        <div class="grid grid-cols-1 gap-6 sm:grid-cols-3">
+          {#each data.projects as project, i}
+            <a
+              href="/projects/{project.slug}"
+              use:inview={i * 100}
+              class="reveal unset-link group no-underline"
+            >
+              {#if project.banner}
+                <img
+                  src={project.banner.path}
+                  alt={project.banner.alt}
+                  loading="lazy"
+                  class="mb-3 aspect-4/3 w-full rounded-sm border-2 border-zinc-800 object-cover transition-transform duration-300 group-hover:scale-[1.02]"
+                />
+              {/if}
+              <h3 class="text-lg font-semibold">{project.title}</h3>
+              <p class="line-clamp-2 text-sm text-neutral-500">{project.description}</p>
+            </a>
+          {/each}
+        </div>
+      </section>
+    {/if}
 
     {#if data.posts.length > 0}
       <section class="pb-16">
