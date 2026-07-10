@@ -11,7 +11,7 @@
       class="reveal group mb-10 block text-inherit no-underline! hover:no-underline! last:mb-0"
       href="/blog/{post.slug}"
     >
-      <h1 class="mb-2 text-2xl font-semibold text-black">{post.title}</h1>
+      <h1 class="mb-2 text-2xl font-serif text-black">{post.title}</h1>
       {#if post.banner}
         <img
           class="mb-2 aspect-video w-full rounded-md border-2 border-zinc-800 object-cover"
