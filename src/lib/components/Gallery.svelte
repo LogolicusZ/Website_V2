@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { onMount, onDestroy } from 'svelte';
 	import { initPhotoSwipe, destroyPhotoSwipe } from '$lib/photoswipe';
+	import { inview } from '$lib/utils/inview';
 
 	export let images: {
 		src: string;
@@ -58,10 +59,12 @@
 				<div class="flex flex-1 flex-col gap-4">
 					{#each column as image}
 						<a
+							use:inview
 							href={image.src}
 							data-pswp-width={image.width}
 							data-pswp-height={image.height}
 							target="_blank"
+							class="reveal block"
 						>
 							<img
 								src={image.src}

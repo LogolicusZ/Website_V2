@@ -1,11 +1,14 @@
 <script lang="ts">
+  import { inview } from '$lib/utils/inview';
+
   let { data } = $props();
 </script>
 
 <div class="mx-auto max-w-3xl px-4 py-12">
-  {#each data.posts as post}
+  {#each data.posts as post, i}
     <a
-      class="group mb-10 block text-inherit no-underline! hover:no-underline! last:mb-0"
+      use:inview={i * 80}
+      class="reveal group mb-10 block text-inherit no-underline! hover:no-underline! last:mb-0"
       href="/blog/{post.slug}"
     >
       <h1 class="mb-2 text-2xl font-semibold text-black">{post.title}</h1>

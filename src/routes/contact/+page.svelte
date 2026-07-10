@@ -1,4 +1,7 @@
 <script>
+  import { fly } from 'svelte/transition';
+  import { inview } from '$lib/utils/inview';
+
   const contact = {
     instagram: "@logolicusz.kb",
     discord: "logolicusz"
@@ -9,7 +12,7 @@
   <div class="w-full max-w-6xl">
 
     <!-- Header -->
-    <div class="text-center max-w-2xl mx-auto mb-12 lg:mb-16">
+    <div class="text-center max-w-2xl mx-auto mb-12 lg:mb-16" in:fly={{ y: 16, duration: 500 }}>
       <h1 class="text-3xl sm:text-4xl lg:text-5xl font-bold tracking-tight">
         Contact Me
       </h1>
@@ -21,7 +24,7 @@
 
     <div class="grid gap-6 sm:gap-8 md:grid-cols-2 lg:grid-cols-3">
 
-      <div class="p-6 sm:p-8">
+      <div use:inview={0} class="reveal p-6 sm:p-8">
         <h2 class="text-m uppercase tracking-widest mb-3">
           Email
         </h2>
@@ -31,7 +34,7 @@
         </p>
       </div>
 
-      <div class="group rounded-2xl p-6 sm:p-8">
+      <div use:inview={100} class="reveal group rounded-2xl p-6 sm:p-8">
         <h2 class="text-m uppercase tracking-widest mb-3">
           Instagram
         </h2>
@@ -50,7 +53,7 @@
         </p>
       </div>
 
-      <div class="group rounded-2xl p-6 sm:p-8 ">
+      <div use:inview={200} class="reveal group rounded-2xl p-6 sm:p-8 ">
         <h2 class="text-m uppercase tracking-widest mb-3">
           Discord
         </h2>

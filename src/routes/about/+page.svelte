@@ -1,4 +1,7 @@
 <script>
+  import { fly } from 'svelte/transition';
+  import { inview } from '$lib/utils/inview';
+
   const codingSkills = [
     "Web Development",
     "Docker",
@@ -23,7 +26,7 @@
 </script>
 
 <section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
-  <div class="grid md:grid-cols-2 gap-10 items-center mb-16">
+  <div class="grid md:grid-cols-2 gap-10 items-center mb-16" in:fly={{ y: 16, duration: 500 }}>
     <div class="w-full">
       <img
         src="/assets/img/about_image.avif"
@@ -45,14 +48,14 @@
 
       <p class="text-base sm:text-lg leading-relaxed">
         I enjoy creating stuff from the from backend infrastructure and
-        deployment to front-end systems and design direction. On the side I also teach myself CAD Designing 
+        deployment to front-end systems and design direction. On the side I also teach myself CAD Designing
       </p>
     </div>
   </div>
 
   <div class="space-y-16">
 
-    <div>
+    <div use:inview class="reveal">
       <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
         Coding / Sysadmin
       </h2>
@@ -66,7 +69,7 @@
       </div>
     </div>
 
-    <div>
+    <div use:inview class="reveal">
       <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
         Design
       </h2>
@@ -80,7 +83,7 @@
       </div>
     </div>
 
-    <div>
+    <div use:inview class="reveal">
       <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
         Hobbies & Interests
       </h2>

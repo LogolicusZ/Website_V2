@@ -1,4 +1,6 @@
 <script lang="ts">
+  import { fly } from 'svelte/transition';
+  import { inview } from '$lib/utils/inview';
   import Carousel from '$lib/components/Carousel.svelte';
   import Gallery from '$lib/components/Gallery.svelte';
 
@@ -37,7 +39,10 @@
 
 <section class="mx-auto max-w-7xl w-full px-2.5 py-2.5">
   <!-- Header -->
-  <header class="flex flex-col md:flex-row md:items-baseline md:justify-between gap-2 mb-8 md:mb-10">
+  <header
+    class="flex flex-col md:flex-row md:items-baseline md:justify-between gap-2 mb-8 md:mb-10"
+    in:fly={{ y: 12, duration: 500 }}
+  >
     <div class="order-2 md:order-1">
       <p class="text-xs uppercase tracking-[0.2em] opacity-50 mb-2">Product</p>
       <h1 class="text-3xl md:text-5xl font-light tracking-tight">
@@ -50,10 +55,15 @@
   </header>
 
   <!-- Hero carousel -->
-  <Carousel images={junaImages} />
+  <div in:fly={{ y: 16, duration: 500, delay: 100 }}>
+    <Carousel images={junaImages} />
+  </div>
 
   <!-- Specs + description -->
-  <div class="grid grid-cols-1 md:grid-cols-12 gap-8 md:gap-12 mt-10 md:mt-14 mb-12 md:mb-16">
+  <div
+    use:inview
+    class="reveal grid grid-cols-1 md:grid-cols-12 gap-8 md:gap-12 mt-10 md:mt-14 mb-12 md:mb-16"
+  >
     <dl class="md:col-span-4 md:order-2 flex flex-col">
       {#each specs as { label, value }}
         <div class="flex flex-col py-3 border-t border-current/10 last:border-b">
@@ -83,7 +93,7 @@
   <Gallery {images} />
 
   <!-- Links -->
-  <footer class="mt-0.75 pt-8">
+  <footer use:inview class="reveal mt-0.75 pt-8">
     <p class="text-[11px] uppercase tracking-[0.2em] opacity-50 mb-4">Links</p>
     <ul class="flex flex-col gap-2">
       {#each links as { href, label }}
