@@ -39,7 +39,9 @@
   ></div>
 
   <main class="relative z-10 px-6 text-neutral-900 md:px-12">
-    <section class="flex min-h-[70dvh] flex-col justify-center md:min-h-[80dvh] md:text-right">
+    <section
+      class="flex min-h-[min(70dvh,600px)] flex-col justify-center md:min-h-[min(80dvh,820px)] md:text-right"
+    >
       {#if mounted}
         <div in:fly={{ y: 20, duration: 700 }}>
           <h1
