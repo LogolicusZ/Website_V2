@@ -30,6 +30,6 @@ export async function load() {
     }))
     .filter((p) => !p.draft)
     .sort((a, b) => +new Date(b.date) - +new Date(a.date))
-    .slice(0, 3);
+    .slice(0, 4);
   return { posts, projects };
 }

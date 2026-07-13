@@ -12,7 +12,8 @@
 
   <!-- Header -->
   <div class="text-center max-w-2xl mx-auto mb-12 lg:mb-16" in:fly={{ y: 16, duration: 500 }}>
-    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-serif tracking-tight">
+    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-serif
+     tracking-tight">
       Contact Me
     </h1>
     <p class="mt-4 text-base sm:text-lg text-neutral-600">
