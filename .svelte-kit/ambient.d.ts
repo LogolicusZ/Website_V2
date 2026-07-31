@@ -46,9 +46,11 @@ declare module '$env/static/private' {
 	export const TMPDIR: string;
 	export const HOMEBREW_REPOSITORY: string;
 	export const TERM_PROGRAM_VERSION: string;
+	export const VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 	export const npm_config_npm_globalconfig: string;
 	export const FPATH: string;
 	export const MallocNanoZone: string;
+	export const ZDOTDIR: string;
 	export const npm_config_registry: string;
 	export const PNPM_HOME: string;
 	export const USER: string;
@@ -58,6 +60,7 @@ declare module '$env/static/private' {
 	export const SSH_AUTH_SOCK: string;
 	export const CLAUDE_CODE_SSE_PORT: string;
 	export const __CF_USER_TEXT_ENCODING: string;
+	export const VSCODE_PROFILE_INITIALIZED: string;
 	export const npm_execpath: string;
 	export const npm_config_frozen_lockfile: string;
 	export const npm_config_verify_deps_before_run: string;
@@ -65,9 +68,9 @@ declare module '$env/static/private' {
 	export const LaunchInstanceID: string;
 	export const npm_package_json: string;
 	export const __CFBundleIdentifier: string;
+	export const USER_ZDOTDIR: string;
 	export const PWD: string;
 	export const npm_command: string;
-	export const VSCODE_NONCE: string;
 	export const npm_config__jsr_registry: string;
 	export const npm_lifecycle_event: string;
 	export const LANG: string;
@@ -79,6 +82,7 @@ declare module '$env/static/private' {
 	export const XPC_SERVICE_NAME: string;
 	export const npm_package_version: string;
 	export const pnpm_config_verify_deps_before_run: string;
+	export const VSCODE_INJECTION: string;
 	export const HOME: string;
 	export const SHLVL: string;
 	export const VSCODE_GIT_ASKPASS_MAIN: string;
@@ -190,9 +194,11 @@ declare module '$env/dynamic/private' {
 		TMPDIR: string;
 		HOMEBREW_REPOSITORY: string;
 		TERM_PROGRAM_VERSION: string;
+		VSCODE_PYTHON_AUTOACTIVATE_GUARD: string;
 		npm_config_npm_globalconfig: string;
 		FPATH: string;
 		MallocNanoZone: string;
+		ZDOTDIR: string;
 		npm_config_registry: string;
 		PNPM_HOME: string;
 		USER: string;
@@ -202,6 +208,7 @@ declare module '$env/dynamic/private' {
 		SSH_AUTH_SOCK: string;
 		CLAUDE_CODE_SSE_PORT: string;
 		__CF_USER_TEXT_ENCODING: string;
+		VSCODE_PROFILE_INITIALIZED: string;
 		npm_execpath: string;
 		npm_config_frozen_lockfile: string;
 		npm_config_verify_deps_before_run: string;
@@ -209,9 +216,9 @@ declare module '$env/dynamic/private' {
 		LaunchInstanceID: string;
 		npm_package_json: string;
 		__CFBundleIdentifier: string;
+		USER_ZDOTDIR: string;
 		PWD: string;
 		npm_command: string;
-		VSCODE_NONCE: string;
 		npm_config__jsr_registry: string;
 		npm_lifecycle_event: string;
 		LANG: string;
@@ -223,6 +230,7 @@ declare module '$env/dynamic/private' {
 		XPC_SERVICE_NAME: string;
 		npm_package_version: string;
 		pnpm_config_verify_deps_before_run: string;
+		VSCODE_INJECTION: string;
 		HOME: string;
 		SHLVL: string;
 		VSCODE_GIT_ASKPASS_MAIN: string;
