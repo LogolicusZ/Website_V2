@@ -1,6 +1,6 @@
 <svelte:head>
-  <title>Legal - krchv</title>
-  <meta name="description" content="A collection of legal documents for krchv.logolicusz.com." />
+  <title>Legal - My portfolio</title>
+  <meta name="description" content="A collection of legal documents for my portfolio.logolicusz.com." />
 </svelte:head>
 
 <div class="mx-auto max-w-3xl p-4 sm:p-6 lg:p-8">
@@ -9,9 +9,9 @@
     <h1 class="font-daydream mb-8 text-4xl">Privacy Policy</h1>
 
     <p>
-      Welcome to krchv! As someone who values privacy, I am committed to safeguarding your personal information and
+      Welcome to my portfolio page! As someone who values privacy, I am committed to safeguarding your personal information and
       ensuring it is handled securely and responsibly. This privacy policy explains what data is collected, how it is
-      used, and the measures taken to protect your information when you visit krchv.
+      used, and the measures taken to protect your information when you visit my portfolio.
     </p>
     <p>
       If you have any questions or concerns about this policy, please contact me at
