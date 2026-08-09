@@ -11,8 +11,6 @@
 	};
 
 	export let images: Image[];
-	// Optional full-width image shown above the masonry grid. Lives inside the
-	// same container so it shares the single PhotoSwipe lightbox instance.
 	export let hero: Image | null = null;
 
 	let galleryEl: HTMLDivElement;
@@ -23,10 +21,6 @@
 		columnCount = w >= 1024 ? 3 : w >= 640 ? 2 : 1;
 	}
 
-	// Greedy masonry: always place the next image in whichever column is
-	// currently shortest, using declared width/height so no image load is
-	// needed. Avoids the empty-column gaps that CSS multi-column layout
-	// produces with break-inside: avoid.
 	function distribute(imgs: typeof images, count: number) {
 		const columns: (typeof images)[] = Array.from({ length: count }, () => []);
 		const heights = new Array(count).fill(0);

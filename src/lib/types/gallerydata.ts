@@ -5,7 +5,6 @@ interface Keyboard {
 
 }
 
-// images array type
 interface Image {
   alt: string;
   src: string;
@@ -13,5 +12,4 @@ interface Image {
   height: number;
 }
 
-// export interfaces as types
 export type { Keyboard, Image };

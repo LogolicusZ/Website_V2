@@ -10,7 +10,6 @@
 
 <section class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-16 sm:py-20 lg:py-24">
 
-  <!-- Header -->
   <div class="text-center max-w-2xl mx-auto mb-12 lg:mb-16" in:fly={{ y: 16, duration: 500 }}>
     <h1 class="text-3xl sm:text-4xl lg:text-5xl font-serif
      tracking-tight">

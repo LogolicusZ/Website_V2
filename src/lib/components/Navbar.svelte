@@ -2,14 +2,11 @@
   import { ChevronRight, Menu, X } from "lucide-svelte";
   import { fade } from "svelte/transition";
 
-  // Add state to track if sidebar is open
   let sidebarOpen = $state(false);
 
-  // Hide the mobile toggle button while scrolling down, reveal it again on scroll up
   let toggleHidden = $state(false);
   let lastScrollY = 0;
 
-  // Toggle sidebar function
   const toggleSidebar = () => {
     sidebarOpen = !sidebarOpen;
   };

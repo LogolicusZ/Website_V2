@@ -11,7 +11,6 @@
 }
 
 @theme {
-  /* FONTS */
   --font-sans:
     "Geist Sans", ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
     "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -24,19 +23,15 @@
     "Daydream", "Geist Sans", ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
-  /* COLORS */
   --color-primary: #f260b3;
   --color-secondary: #e860f2;
   /* dark mode primary: #9f60f2 */
-
-  /* base colors */
   --color-base-100: #fffefb;
   --color-base-content: oklch(0.141 0.005 285.823);
   --color-link-primary: var(--color-primary);
   --color-link-secondary: var(--color-secondary);
 }
 
-/* apply general styles */
 body {
   @apply bg-base-100 text-base-content;
 }
@@ -45,7 +40,6 @@ a:not(.unset-link) {
   @apply text-link-primary cursor-pointer underline hover:brightness-[80%];
 }
 
-/* scroll-triggered reveal, paired with the `inview` action */
 .reveal {
   opacity: 0;
   transform: translateY(16px);

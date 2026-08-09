@@ -31,7 +31,6 @@
 </svelte:head>
 
 <div class="relative">
-  <!-- subtle film-grain texture, purely decorative -->
   <div
     aria-hidden="true"
     class="pointer-events-none fixed inset-0 z-0 opacity-[0.05] mix-blend-overlay"
@@ -50,12 +49,9 @@
             onmouseleave={handleLeave}
             class="relative font-serif text-[clamp(2rem,6vw,6rem)] leading-[1.1] tracking-tight"
           >
-            <!-- Base layer -->
             Independent designer,
             <span class="text-neutral-500 italic">crafting for passion</span>
             with occasional side projects.
-
-            <!-- Pink layer, revealed only inside a circle at the cursor -->
             <span
               aria-hidden="true"
               class="pointer-events-none absolute inset-0"

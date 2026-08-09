@@ -11,7 +11,6 @@ export async function load({ params }) {
   return { content: mod.default, meta: mod.metadata };
 }
 
-// Tell adapter-static which slugs to prerender
 export function entries() {
   return Object.keys(modules).map((p) => ({
     slug: p.split('/').pop()!.replace('.md', '')
