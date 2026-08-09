@@ -3,12 +3,17 @@
 	import { initPhotoSwipe, destroyPhotoSwipe } from '$lib/photoswipe';
 	import { inview } from '$lib/utils/inview';
 
-	export let images: {
+	type Image = {
 		src: string;
 		width: number;
 		height: number;
 		alt?: string;
-	}[];
+	};
+
+	export let images: Image[];
+	// Optional full-width image shown above the masonry grid. Lives inside the
+	// same container so it shares the single PhotoSwipe lightbox instance.
+	export let hero: Image | null = null;
 
 	let galleryEl: HTMLDivElement;
 	let columnCount = 3;
@@ -52,8 +57,26 @@
 	});
 </script>
 
-{#if images && images.length > 0}
+{#if (images && images.length > 0) || hero}
 	<div class="mt-6" bind:this={galleryEl}>
+		{#if hero}
+			<a
+				use:inview
+				href={hero.src}
+				data-pswp-width={hero.width}
+				data-pswp-height={hero.height}
+				target="_blank"
+				class="reveal mb-4 block"
+			>
+				<img
+					src={hero.src}
+					alt={hero.alt}
+					width={hero.width}
+					height={hero.height}
+					class="block w-full cursor-zoom-in rounded-sm transition-transform hover:scale-[0.995]"
+				/>
+			</a>
+		{/if}
 		<div class="flex gap-4">
 			{#each columns as column}
 				<div class="flex flex-1 flex-col gap-4">

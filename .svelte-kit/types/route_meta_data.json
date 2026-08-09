@@ -18,6 +18,10 @@
 	"/contact": [
 		"src/routes/+layout.ts"
 	],
+	"/csirac": [
+		"src/routes/csirac/+page.ts",
+		"src/routes/+layout.ts"
+	],
 	"/gallery": [
 		"src/routes/gallery/+page.ts",
 		"src/routes/+layout.ts"
