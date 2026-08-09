@@ -24,8 +24,7 @@
     { src: '/assets/img/csirac/screenshot4.avif', alt: 'Screenshot 4', width: 1855, height: 754 },
     { src: '/assets/img/csirac/screenshot5.avif', alt: 'Screenshot 5', width: 1928, height: 779 },
     { src: '/assets/img/csirac/screenshot6.avif', alt: 'Screenshot 6', width: 1884, height: 772 },
-    { src: '/assets/img/csirac/screenshot7.avif', alt: 'Screenshot 7', width: 1770, height: 711 },
-    { src: '/assets/img/csirac/screenshot8.avif', alt: 'Screenshot 8', width: 1837, height: 733 }
+    { src: '/assets/img/csirac/screenshot7.avif', alt: 'Screenshot 7', width: 1770, height: 711 }
   ];
 </script>
 
