@@ -3,6 +3,7 @@
     { href: "https://www.instagram.com/logolicusz.kb/", label: "Instagram" },
     { href: "https://discord.com/users/688701393258938417", label: "Discord" },
     { href: "https://github.com/LogolicusZ", label: "Github" },
+    { href: "https://krchv.logolicusz.com", label: "krchv" },
   ];
 </script>
 
@@ -19,7 +20,7 @@
   >
     <a href="/" class="unset-link no-underline" aria-label="logolicusz — home">
       <img
-        src="/assets/svg/footer-mark.svg"
+        src="/assets/svg/logomark.svg"
         alt=""
         width="1362"
         height="1362"

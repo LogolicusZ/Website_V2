@@ -18,12 +18,12 @@
 
   <p
     use:inview
-    class="reveal mt-[clamp(3rem,7vw,6rem)] max-w-2xl text-center font-serif text-[clamp(1.25rem,2.4vw,2.25rem)] leading-[1.35] tracking-tight text-balance"
+    class="reveal mt-[clamp(2.5rem,6vw,7rem)] max-w-[min(92%,64rem)] text-center font-serif text-[clamp(1.25rem,3.05vw,4.25rem)] leading-[1.3] tracking-tight text-balance"
   >
     Independent designer, crafting for passion with occasional side projects.
   </p>
 
-  <p use:inview={120} class="reveal mt-6 max-w-md text-center text-neutral-500">
+  <p use:inview={120} class="reveal mt-[clamp(1rem,1.6vw,2rem)] max-w-[min(92%,34rem)] text-center text-[clamp(1rem,1.35vw,1.75rem)] text-neutral-500">
     Keyboards, photography and the occasional bit of code. Have a look around.
   </p>
 </div>
