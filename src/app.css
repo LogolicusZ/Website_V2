@@ -30,6 +30,22 @@
   --color-base-content: oklch(0.141 0.005 285.823);
   --color-link-primary: var(--color-primary);
   --color-link-secondary: var(--color-secondary);
+
+  /* Header/nav accents, sampled from the landing-page hero image.
+     Darkened to clear 4.5:1 on the page background. */
+  --color-accent-amber: #957008;
+  --color-accent-lime: #588008;
+  --color-accent-green: #0b8824;
+  --color-accent-teal: #088474;
+
+  /* Scale derived from the 1512px landing-page comp. */
+  --text-logotype: clamp(1.5rem, 4.13vw, 3.9rem);
+  --text-nav: clamp(1.15rem, 2.08vw, 1.97rem);
+  --text-contact: clamp(2rem, 5vw, 4.75rem);
+  --text-social: clamp(1.25rem, 3.4vw, 3.25rem);
+
+  --spacing-gutter: clamp(1rem, 3.37vw, 3.2rem);
+  --spacing-block: clamp(3rem, 6.6vw, 6.25rem);
 }
 
 body {

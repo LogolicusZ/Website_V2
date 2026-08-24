@@ -32,6 +32,10 @@
 	"/legal": [
 		"src/routes/+layout.ts"
 	],
+	"/projects": [
+		"src/routes/projects/+page.ts",
+		"src/routes/+layout.ts"
+	],
 	"/projects/juna": [
 		"src/routes/+layout.ts"
 	],

@@ -1,11 +1,12 @@
 <script lang="ts">
-  import Navbar from "$lib/components/Navbar.svelte";
+  import SiteHeader from "$lib/components/SiteHeader.svelte";
+  import SiteFooter from "$lib/components/SiteFooter.svelte";
   import "../app.css";
-  let { children, data } = $props();
+  let { children } = $props();
 </script>
 
 <svelte:head>
-  <title>krchv</title>
+  <title>logolicusz</title>
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://logolicusz.com/" />
   <meta property="og:title" content="Home" />
@@ -25,9 +26,12 @@
   <meta property="twitter:image" content="/assets/img/preview.png" />
 </svelte:head>
 
-<main class="flex h-dvh w-full overflow-hidden">
-  <Navbar {data} />
-  <div class="h-full w-full scroll-smooth overflow-auto p-12 pt-28 pl-12 md:pt-12 md:pl-0 lg:pl-0">
+<div class="flex min-h-dvh flex-col scroll-smooth">
+  <SiteHeader />
+
+  <main class="mt-block px-gutter flex-1">
     {@render children()}
-  </div>
-</main>
+  </main>
+
+  <SiteFooter />
+</div>

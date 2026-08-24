@@ -1,5 +1,4 @@
 <script>
-  import { fly } from 'svelte/transition';
   import { inview } from '$lib/utils/inview';
 
   const skillGroups = [
@@ -18,44 +17,44 @@
   ];
 </script>
 
-<section class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16">
-  <div class="grid md:grid-cols-2 gap-10 md:gap-14 items-start mb-16" in:fly={{ y: 16, duration: 500 }}>
-    <img
-      src="/assets/img/about_image.avif"
-      alt="Logolicusz standing outdoors, wearing a Baker's Soul t-shirt"
-      width="4128"
-      height="5504"
-      class="w-full max-w-md mx-auto md:mx-0 aspect-4/5 rounded-2xl object-cover shadow-sm"
-    />
+<section class="mx-auto flex max-w-3xl flex-col items-center pb-8 text-center">
+  <img
+    src="/assets/img/about_image.avif"
+    alt="Logolicusz standing outdoors, wearing a Baker's Soul t-shirt"
+    width="4128"
+    height="5504"
+    class="aspect-4/5 w-full max-w-xs rounded-sm object-cover sm:max-w-sm"
+  />
 
-    <div>
-      <h1 class="text-4xl sm:text-5xl font-serif mb-6">
-        About Me
-      </h1>
+  <h1
+    use:inview
+    class="reveal mt-[clamp(2rem,5vw,3.5rem)] font-serif text-4xl tracking-tight sm:text-5xl"
+  >
+    About Me
+  </h1>
 
-      <p class="text-base sm:text-lg leading-relaxed mb-4">
-        At the moment, I’m in a 4-year-long apprenticeship at Adnovum, learning to be an IT System Administrator. On the side, I teach myself CAD designing, UI/UX design and programming.
-      </p>
+  <div use:inview={100} class="reveal mt-6 space-y-4 text-base leading-relaxed text-pretty sm:text-lg">
+    <p>
+      At the moment, I’m in a 4-year-long apprenticeship at Adnovum, learning to be an IT System
+      Administrator. On the side, I teach myself CAD designing, UI/UX design and programming.
+    </p>
 
-      <p class="text-base sm:text-lg leading-relaxed">
-        I enjoy creating stuff from the from backend infrastructure and
-        deployment to front-end systems and design direction. On the side I also teach myself CAD Designing
-      </p>
-    </div>
+    <p>
+      I enjoy creating stuff from backend infrastructure and deployment to front-end systems and
+      design direction.
+    </p>
   </div>
 
-  <div class="space-y-12 sm:space-y-16">
-    {#each skillGroups as group}
-      <div use:inview class="reveal">
-        <h2 class="text-2xl sm:text-3xl font-semibold mb-6">
+  <div class="mt-[clamp(3rem,7vw,4.5rem)] w-full space-y-10">
+    {#each skillGroups as group, i}
+      <div use:inview={i * 80} class="reveal">
+        <h2 class="text-xs tracking-[0.2em] text-neutral-500 uppercase">
           {group.title}
         </h2>
 
-        <ul class="flex flex-wrap gap-2.5">
+        <ul class="mt-4 flex flex-wrap justify-center gap-2">
           {#each group.items as item}
-            <li
-              class="rounded-full border border-zinc-800/15 bg-black/2 px-4 py-2 text-sm sm:text-base transition-colors hover:border-primary/50"
-            >
+            <li class="rounded-full border border-zinc-800/15 px-3.5 py-1.5 text-sm">
               {item}
             </li>
           {/each}
@@ -63,5 +62,4 @@
       </div>
     {/each}
   </div>
-
 </section>
