@@ -14,7 +14,7 @@
     property="og:description"
     content="Hi! Im Logolicus and I like to make stuff!"
   />
-  <meta property="og:image" content="/assets/img/preview.png" />
+  <meta property="og:image" content="/assets/img/preview.avif" />
 
   <meta property="twitter:card" content="summary_large_image" />
   <meta property="twitter:url" content="httlogolicusz.com/" />
@@ -23,7 +23,7 @@
     property="twitter:description"
     content="Hi! Im Logolicus and I like to make stuff!!"
   />
-  <meta property="twitter:image" content="/assets/img/preview.png" />
+  <meta property="twitter:image" content="/assets/img/preview.avif" />
 </svelte:head>
 
 <div class="flex min-h-dvh flex-col scroll-smooth">
