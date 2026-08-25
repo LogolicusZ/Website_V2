@@ -1,5 +1,6 @@
 <script lang="ts">
   import SiteHeader from "$lib/components/SiteHeader.svelte";
+  import ContactCta from "$lib/components/ContactCta.svelte";
   import SiteFooter from "$lib/components/SiteFooter.svelte";
   import "../app.css";
   let { children } = $props();
@@ -32,6 +33,8 @@
   <main class="mt-block px-gutter flex-1">
     {@render children()}
   </main>
+
+  <ContactCta />
 
   <SiteFooter />
 </div>

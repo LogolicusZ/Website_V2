@@ -23,17 +23,9 @@
   ];
 </script>
 
-<footer class="px-gutter mt-[clamp(2.25rem,4.95vw,4.5rem)] pb-[clamp(1.8rem,3.6vw,3.15rem)]">
-  <a
-    href="/contact/"
-    style="--accent: var(--color-accent-green)"
-    class="unset-link text-contact mx-auto block w-fit px-[0.25em] py-[0.3em] text-center leading-[1.1] no-underline transition-colors duration-200 hover:text-[var(--accent)]"
-  >
-    Contact
-  </a>
-
+<footer class="px-gutter mt-[clamp(2.5rem,5vw,4.5rem)] pb-[clamp(1.5rem,3vw,2.6rem)]">
   <div
-    class="mt-[clamp(2.25rem,4.95vw,4.5rem)] flex flex-col items-center gap-y-4 sm:flex-row sm:flex-wrap sm:justify-center sm:gap-x-[clamp(1.125rem,2.34vw,2.25rem)]"
+    class="flex flex-col items-center gap-y-4 sm:flex-row sm:flex-wrap sm:justify-center sm:gap-x-[clamp(1.125rem,2.34vw,2.25rem)]"
   >
     <a href="/" class="unset-link no-underline" aria-label="logolicusz — home">
       <img
@@ -41,7 +33,7 @@
         alt=""
         width="1500"
         height="1500"
-        class="w-[clamp(2.7rem,4.14vw,4.05rem)]"
+        class="w-[clamp(2.3rem,3.5vw,3.4rem)]"
       />
     </a>
 
@@ -59,7 +51,7 @@
   </div>
 
   <div
-    class="mt-[clamp(1.575rem,3.15vw,2.475rem)] flex flex-col items-center gap-y-1 border-t border-black/10 pt-4 text-sm text-neutral-500 sm:flex-row sm:justify-between"
+    class="mt-[clamp(1.35rem,2.7vw,2.1rem)] flex flex-col items-center gap-y-1 border-t border-black/10 pt-4 text-sm text-neutral-500 sm:flex-row sm:justify-between"
   >
     <p>&copy; 2026 LogolicusZ</p>
     <a
