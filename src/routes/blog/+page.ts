@@ -10,7 +10,4 @@ export async function load() {
     .filter((p) => !p.draft)
     .sort((a, b) => +new Date(b.date) - +new Date(a.date));
   return { posts };
-
-  console.log('found:', Object.keys(modules));
-  console.log('metadata:', Object.values(modules).map((m: any) => m.metadata));
 }

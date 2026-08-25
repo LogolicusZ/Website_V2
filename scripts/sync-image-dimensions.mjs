@@ -70,6 +70,20 @@ for (const file of await walk(SRC)) {
     }
   }
 
+  // YAML frontmatter banners: path/alt/width/height (posts use `path:`, not `src:`)
+  const yaml = [...after.matchAll(
+    /path:\s*["'](\/assets\/[^"']+)["']([\s\S]{0,200}?width:\s*)(\d+)([\s\S]{0,120}?height:\s*)(\d+)/g
+  )];
+  for (const m of yaml) {
+    const d = await dimsFor(m[1]);
+    if (!d) continue;
+    const updated = `path: "${m[1]}"${m[2]}${d.width}${m[4]}${d.height}`;
+    if (updated !== m[0]) {
+      after = after.replace(m[0], updated);
+      changed++;
+    }
+  }
+
   // <img ...> tags carrying explicit width/height
   const tags = [...after.matchAll(/<img\b[^>]*?>/gs)];
   for (const m of tags) {

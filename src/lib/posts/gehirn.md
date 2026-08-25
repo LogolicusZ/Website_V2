@@ -7,8 +7,8 @@ tags: [showcase, keyboards]
 banner:
   path: "/assets/img/blog/Gehirn-article/Gehirn13.avif"
   alt: "Post Banner"
-  width: 2800
-  height: 2100
+  width: 2560
+  height: 1920
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz

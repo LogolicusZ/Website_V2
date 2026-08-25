@@ -7,8 +7,8 @@ tags: [showcase, keyboards]
 banner:
   path: "/assets/img/blog/protagonist-article/protagonist-11.webp"
   alt: "Post Banner"
-  width: 3840
-  height: 2160
+  width: 2560
+  height: 1440
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz

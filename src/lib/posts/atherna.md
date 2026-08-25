@@ -7,8 +7,8 @@ tags: [showcase, keyboards]
 banner:
   path: "/assets/img/blog/atherna/atherna2.avif"
   alt: "Post Banner"
-  width: 3840
-  height: 2160
+  width: 2560
+  height: 1440
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz

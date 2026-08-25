@@ -7,8 +7,8 @@ tags: [showcase, keyboards]
 banner:
   path: "/assets/img/blog/noodle/noodle7.avif"
   alt: "Post Banner"
-  width: 6000
-  height: 4000
+  width: 2560
+  height: 1707
 author:
   name: LogolicusZ
   social: https://www.instagram.com/logolicusz
