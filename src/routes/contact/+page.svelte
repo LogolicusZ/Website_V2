@@ -1,88 +1,63 @@
 <script>
-  import { fly } from 'svelte/transition';
   import { inview } from '$lib/utils/inview';
 
   const contact = {
-    instagram: "@logolicusz.kb",
-    discord: "logolicusz"
+    instagram: '@logolicusz.kb',
+    discord: 'logolicusz'
   };
+
+  // One style for every value on this page, so the email cannot drift
+  // out of step with the rest.
+  const value = 'block wrap-break-word text-2xl font-medium sm:text-3xl';
+  const label = 'text-sm tracking-[0.2em] text-neutral-500 uppercase';
+  const note = 'mt-1.5 text-base text-neutral-500';
 </script>
 
-<section class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-16 sm:py-20 lg:py-24">
+<section class="mx-auto flex max-w-3xl flex-col items-center pb-8 text-center">
+  <h1 use:inview class="reveal font-serif text-5xl tracking-tight sm:text-6xl">Contact Me</h1>
 
-  <div class="text-center max-w-2xl mx-auto mb-12 lg:mb-16" in:fly={{ y: 16, duration: 500 }}>
-    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-serif
-     tracking-tight">
-      Contact Me
-    </h1>
-    <p class="mt-4 text-base sm:text-lg text-neutral-600">
-      Have a project, collaboration idea, or just want to say hello?
-      Reach out through any of the platforms below.
-    </p>
-  </div>
+  <p
+    use:inview={100}
+    class="reveal mt-6 max-w-xl text-lg leading-relaxed text-pretty text-neutral-500 sm:text-xl"
+  >
+    Have a project, collaboration idea, or just want to say hello? Reach out through any of the
+    platforms below.
+  </p>
 
-  <ul class="grid grid-cols-1 gap-4 sm:grid-cols-2 sm:gap-6 xl:grid-cols-3">
-
-    <li
-      use:inview={0}
-      class="reveal min-w-0 rounded-2xl border border-zinc-800/15 p-6 sm:p-8"
-    >
-      <h2 class="text-xs uppercase tracking-[0.2em] opacity-50 mb-3">
-        Email
-      </h2>
-      <span
-        ><code
-          class="email block wrap-break-word text-lg sm:text-xl font-semibold unset-link no-underline hover:text-primary"
-          >logol<b class="hidden">ASDÖFKLJASVD09N3NQIUPWRBÖAÖLSBJLLDVsadlfnasdcn823bröaföasdöfhsdca0saüodibdsaf</b>cusz@<b
-            class="hidden"
-            >qpwfhpq8vnpq9w849pP@asdhfo239f8zhap0whecpbvp9A83F8PBFAEF</b
-          >gmail.com</code
-        ></span
+  <div class="mt-[clamp(3rem,7vw,4.5rem)] w-full space-y-10">
+    <div use:inview class="reveal">
+      <h2 class={label}>Email</h2>
+      <!-- Unchanged behind the scenes: the hidden spans break the address up so
+           it reads correctly on screen but never forms a matchable
+           user@domain.tld string in the markup. -->
+      <span class={value}
+        >logol<b class="hidden"
+          >ASDÖFKLJASVD09N3NQIUPWRBÖAÖLSBJLLDVsadlfnasdcn823bröaföasdöfhsdca0saüodibdsaf</b
+        >icusz@<b class="hidden">qpwfhpq8vnpq9w849pP@asdhfo239f8zhap0whecpbvp9A83F8PBFAEF</b
+        >gmail.com</span
       >
-      <p class="mt-3 text-sm text-neutral-500">
-        Best for professional inquiries.
-      </p>
-    </li>
+      <p class={note}>Best for professional inquiries.</p>
+    </div>
 
-    <li
-      use:inview={100}
-      class="reveal group min-w-0 rounded-2xl border border-zinc-800/15 p-6 sm:p-8 transition-colors hover:border-primary/50"
-    >
-      <h2 class="text-xs uppercase tracking-[0.2em] opacity-50 mb-3">
-        Instagram
-      </h2>
-
+    <div use:inview={80} class="reveal">
+      <h2 class={label}>Instagram</h2>
       <a
         href={`https://instagram.com/${contact.instagram.replace('@', '')}`}
         target="_blank"
         rel="noopener noreferrer"
-        class="block wrap-break-word text-lg sm:text-xl font-semibold unset-link no-underline group-hover:text-primary focus-visible:outline-2 focus-visible:outline-primary focus-visible:outline-offset-2 rounded-sm"
+        style="--accent: var(--color-accent-grass)"
+        class="unset-link {value} no-underline transition-colors duration-200 hover:text-[var(--accent)]"
       >
         {contact.instagram}
         <span class="sr-only"> (opens in a new tab)</span>
       </a>
+      <p class={note}>DM me for quick conversations.</p>
+    </div>
 
-      <p class="mt-3 text-sm text-neutral-500">
-        DM me for quick conversations.
-      </p>
-    </li>
-
-    <li
-      use:inview={200}
-      class="reveal min-w-0 rounded-2xl border border-zinc-800/15 p-6 sm:p-8"
-    >
-      <h2 class="text-xs uppercase tracking-[0.2em] opacity-50 mb-3">
-        Discord
-      </h2>
-
-      <p class="wrap-break-word text-lg sm:text-xl font-semibold">
-        {contact.discord}
-      </p>
-
-      <p class="mt-3 text-sm text-neutral-500">
-        Ideal for ongoing collaboration.
-      </p>
-    </li>
-
-  </ul>
+    <div use:inview={160} class="reveal">
+      <h2 class={label}>Discord</h2>
+      <span class={value}>{contact.discord}</span>
+      <p class={note}>Ideal for ongoing collaboration.</p>
+    </div>
+  </div>
 </section>
