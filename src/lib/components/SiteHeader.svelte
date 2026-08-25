@@ -2,10 +2,10 @@
   import { page } from "$app/state";
 
   const accents = [
-    "var(--color-accent-amber)",
     "var(--color-accent-lime)",
+    "var(--color-accent-grass)",
     "var(--color-accent-green)",
-    "var(--color-accent-teal)",
+    "var(--color-accent-forest)",
   ];
 
   const wordmark = "logolicusz".split("");

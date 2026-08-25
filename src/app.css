@@ -1,8 +1,9 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
-@import "@fontsource/geist-sans";
-@import "@fontsource/geist-mono";
-@import "@fontsource/young-serif";
+/* Latin-only, weight 400. The bare package imports pull every subset
+   (cyrillic, greek, vietnamese, symbols) for weights we never use. */
+@import "@fontsource/geist-sans/latin-400.css";
+@import "@fontsource/young-serif/latin-400.css";
 @font-face {
   font-family: "Daydream";
   src: url("/assets/fonts/daydream.ttf") format("truetype");
@@ -17,8 +18,8 @@
   --font-serif:
     "Young Serif", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
   --font-mono:
-    "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
-    "Liberation Mono", "Courier New", monospace;
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
   --font-daydream:
     "Daydream", "Geist Sans", ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -31,18 +32,18 @@
   --color-link-primary: var(--color-primary);
   --color-link-secondary: var(--color-secondary);
 
-  /* Header/nav accents, sampled from the landing-page hero image.
-     Darkened to clear 4.5:1 on the page background. */
-  --color-accent-amber: #957008;
-  --color-accent-lime: #588008;
-  --color-accent-green: #0b8824;
-  --color-accent-teal: #088474;
+  /* Green accents for nav/footer hovers. Fully saturated for vibrancy, with
+     lightness solved so each still clears 4.5:1 on the page background. */
+  --color-accent-lime: #568200;
+  --color-accent-grass: #228800;
+  --color-accent-green: #008917;
+  --color-accent-forest: #00884f;
 
   /* Scale derived from the 1512px landing-page comp. */
   --text-logotype: clamp(1.5rem, 4.13vw, 3.9rem);
   --text-nav: clamp(1.15rem, 2.08vw, 1.97rem);
-  --text-contact: clamp(2rem, 5vw, 4.75rem);
-  --text-social: clamp(1.25rem, 3.4vw, 3.25rem);
+  --text-contact: clamp(2.2rem, 5.5vw, 5.25rem);
+  --text-social: clamp(1.125rem, 3.05vw, 2.9rem);
 
   --spacing-gutter: clamp(1rem, 3.37vw, 3.2rem);
   --spacing-block: clamp(3rem, 6.6vw, 6.25rem);

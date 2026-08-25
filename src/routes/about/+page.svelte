@@ -21,8 +21,8 @@
   <img
     src="/assets/img/about_image.avif"
     alt="Logolicusz standing outdoors, wearing a Baker's Soul t-shirt"
-    width="4128"
-    height="5504"
+    width="2560"
+    height="3413"
     class="aspect-4/5 w-full max-w-xs rounded-sm object-cover sm:max-w-sm"
   />
 

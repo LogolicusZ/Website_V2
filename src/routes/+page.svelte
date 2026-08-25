@@ -10,10 +10,10 @@
   <img
     src="/assets/img/banner.avif"
     alt="A keyboard build photographed on a desk"
-    width="5504"
-    height="4128"
+    width="2560"
+    height="1920"
     fetchpriority="high"
-    class="aspect-video w-full rounded-sm object-cover"
+    class="aspect-video w-full max-w-[110rem] rounded-sm object-cover"
   />
 
   <p
