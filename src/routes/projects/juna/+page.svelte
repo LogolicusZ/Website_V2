@@ -11,16 +11,16 @@
   ];
 
   const images = [
-    { src: '/assets/img/projects/juna/file_6.avif',  alt: 'Photo 1', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_7.avif',  alt: 'Photo 2', width: 5442, height: 4082 },
-    { src: '/assets/img/projects/juna/file_8.avif',  alt: 'Photo 3', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_9.avif',  alt: 'Photo 4', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_10.avif', alt: 'Photo 5', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_11.avif', alt: 'Photo 6', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_12.avif', alt: 'Photo 7', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_13.avif', alt: 'Photo 8', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_14.avif', alt: 'Photo 9', width: 5504, height: 4128 },
-    { src: '/assets/img/projects/juna/file_15.avif', alt: 'Photo 10', width: 5504, height: 4128 }
+    { src: '/assets/img/projects/juna/file_6.avif',  alt: 'Photo 1', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_7.avif',  alt: 'Photo 2', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_8.avif',  alt: 'Photo 3', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_9.avif',  alt: 'Photo 4', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_10.avif', alt: 'Photo 5', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_11.avif', alt: 'Photo 6', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_12.avif', alt: 'Photo 7', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_13.avif', alt: 'Photo 8', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_14.avif', alt: 'Photo 9', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/file_15.avif', alt: 'Photo 10', width: 2560, height: 1920 }
   ];
 
   const specs = [
