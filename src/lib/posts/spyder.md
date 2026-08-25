@@ -41,7 +41,7 @@ The Spyder effortlessly blends classic and modern design aspects, which have bee
 
 <figure class="my-6">
   <img src="/assets/img/blog/spyder-article/Spyder6.avif" alt="Spyder 550" title="Image by Captainsterling"
-       width="5839" height="3893" loading="lazy"
+       width="2560" height="1707" loading="lazy"
        class="w-full rounded-md border-2 border-zinc-800" />
   <figcaption class="text-sm text-center text-gray-500">
     Photo by <a href="https://www.instagram.com/p/C4Dlw5-OCrH/?hl=en&img_index=1" class="underline hover:text-gray-700">Captain Sterling</a>

@@ -16,7 +16,7 @@ author:
 
 <figure class="my-6">
   <img src="/assets/img/blog/noodle/noodle7.avif" alt="Noodle.Zip photo" title="logolicusz"
-       width="6000" height="4000" loading="eager"
+       width="2560" height="1707" loading="eager"
        class="w-full rounded-md border-2 border-zinc-800" />
   <figcaption class="text-sm text-center text-gray-500">
     Photo by <a href="https://www.instagram.com/logolicusz/" class="underline hover:text-gray-700">LogolicusZ</a>
@@ -30,10 +30,10 @@ The keyboard's design includes various engravings that reference Miyeon, such as
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/noodle/noodle16.avif" alt="Noodle.Zip photo" title="LogolicusZ"
-         width="4000" height="6000" loading="lazy"
+         width="2560" height="3840" loading="lazy"
          class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
     <img src="/assets/img/blog/noodle/noodle18.avif" alt="Noodle.Zip photo" title="LogolicusZ"
-         width="4000" height="6000" loading="lazy"
+         width="2560" height="3840" loading="lazy"
          class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
   </div>
   <figcaption class="text-sm text-center text-gray-500">
@@ -47,7 +47,7 @@ The keyboard's color is misty lilac, which can appear pale or saturated dependin
 
 <figure class="my-6">
   <img src="/assets/img/blog/noodle/noodle8.avif" alt="Noodle.Zip photo" title="LogolicusZ"
-       width="6000" height="4000" loading="lazy"
+       width="2560" height="1707" loading="lazy"
        class="w-full rounded-md border-2 border-zinc-800" />
   <figcaption class="text-sm text-center text-gray-500">
     Photo by <a href="https://www.instagram.com/logolicusz/" class="underline hover:text-gray-700">LogolicusZ</a>

@@ -16,7 +16,7 @@ author:
 
 <figure class="my-6">
   <img src="/assets/img/blog/Gehirn-article/Gehirn13.avif" alt="Gehirn TKL Images" title="Markerchun"
-       width="2800" height="2100" loading="eager"
+       width="2560" height="1920" loading="eager"
        class="w-full rounded-md border-2 border-zinc-800" />
   <figcaption class="text-sm text-center text-gray-500">
     Photo by <a href="https://www.instagram.com/markerchun/" class="underline hover:text-gray-700">Markerchun</a>

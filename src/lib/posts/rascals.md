@@ -105,7 +105,7 @@ He is expecting to receive the color samples very soon, while also expecting to 
 
 <figure class="my-6">
   <img src="/assets/img/blog/rascals/MTNU-2.avif" alt="Render by Afresh" title="Rascals"
-       width="3840" height="2160" loading="lazy"
+       width="2560" height="1440" loading="lazy"
        class="w-full rounded-md border-2 border-zinc-800" />
   <figcaption class="text-sm text-center text-gray-500">
     Render by <a href="https://www.instagram.com/lykkostudio/" class="underline hover:text-gray-700">Afresh</a>
