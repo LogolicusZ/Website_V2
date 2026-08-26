@@ -14,9 +14,9 @@ author:
 ---
 
 <figure class="my-6">
-  <img src="/assets/img/blog/sixtyfive-article/SixtyFive6.avif" alt="Image by Nainaigogo" title="Mode SixtyFive"
+  <a href="/assets/img/blog/sixtyfive-article/SixtyFive6.avif" data-pswp-width="1080" data-pswp-height="1146" class="block cursor-zoom-in"><img src="/assets/img/blog/sixtyfive-article/SixtyFive6.avif" alt="Image by Nainaigogo" title="Mode SixtyFive"
        width="1080" height="1146" loading="eager"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/nainaigogo/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Nainaigogo</a>
   </figcaption>
@@ -30,15 +30,15 @@ In 2021, they released the original SixtyFive, which was well received for its b
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-    <img src="/assets/img/blog/sixtyfive-article/SixtyFive1.avif" alt="Mode Designs" title="Mode Designs"
+    <a href="/assets/img/blog/sixtyfive-article/SixtyFive1.avif" data-pswp-width="640" data-pswp-height="960" class="block cursor-zoom-in"><img width="640" height="960" src="/assets/img/blog/sixtyfive-article/SixtyFive1.avif" alt="Mode Designs" title="Mode Designs"
          loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-sm" />
-    <img src="/assets/img/blog/sixtyfive-article/SixtyFive2.avif" alt="Mode Designs" title="Mode Designs"
+         class="w-full aspect-2/3 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/sixtyfive-article/SixtyFive2.avif" data-pswp-width="640" data-pswp-height="959" class="block cursor-zoom-in"><img width="640" height="959" src="/assets/img/blog/sixtyfive-article/SixtyFive2.avif" alt="Mode Designs" title="Mode Designs"
          loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-sm" />
-    <img src="/assets/img/blog/sixtyfive-article/SixtyFive7.avif" alt="Mode Designs" title="Mode Designs"
+         class="w-full aspect-2/3 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/sixtyfive-article/SixtyFive7.avif" data-pswp-width="640" data-pswp-height="961" class="block cursor-zoom-in"><img width="640" height="961" src="/assets/img/blog/sixtyfive-article/SixtyFive7.avif" alt="Mode Designs" title="Mode Designs"
          loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-sm" />
+         class="w-full aspect-2/3 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mode Designs</a>
@@ -56,9 +56,9 @@ This brings us to another specialty of Mode: their configurator, which was first
 After the pre-order window, Mode tries to keep a certain amount of parts in stock and regularly restocks these parts. This allows hobbyists to get replacements or try a different plate material if they want.
 
 <figure class="my-6">
-  <img src="/assets/img/blog/sixtyfive-article/ModeWeights.avif" alt="Weights" title="Weights"
+  <a href="/assets/img/blog/sixtyfive-article/ModeWeights.avif" data-pswp-width="840" data-pswp-height="473" class="block cursor-zoom-in"><img width="840" height="473" src="/assets/img/blog/sixtyfive-article/ModeWeights.avif" alt="Weights" title="Weights"
        loading="lazy"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mode Designs</a>
   </figcaption>
@@ -70,12 +70,12 @@ Following this, we can see how Mode has implemented this concept into all of the
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/sixtyfive-article/SixtyFive3.avif" alt="Gehirn TKL Images" title="Alexotos"
+    <a href="/assets/img/blog/sixtyfive-article/SixtyFive3.avif" data-pswp-width="1080" data-pswp-height="1350" class="block cursor-zoom-in"><img src="/assets/img/blog/sixtyfive-article/SixtyFive3.avif" alt="Gehirn TKL Images" title="Alexotos"
          width="1080" height="1350" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-sm" />
-    <img src="/assets/img/blog/sixtyfive-article/SixtyFive4.avif" alt="Gehirn TKL Images" title="Alexotos"
+         class="w-full aspect-4/5 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/sixtyfive-article/SixtyFive4.avif" data-pswp-width="1080" data-pswp-height="1350" class="block cursor-zoom-in"><img src="/assets/img/blog/sixtyfive-article/SixtyFive4.avif" alt="Gehirn TKL Images" title="Alexotos"
          width="1080" height="1350" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-sm" />
+         class="w-full aspect-4/5 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a>
@@ -85,9 +85,9 @@ Following this, we can see how Mode has implemented this concept into all of the
 Now, let's talk about the New SixtyFive. It combines the aesthetics of the old SixtyFive with modern internals and a preference for new colors and materials. The board boasts the same mounting system that was introduced in the Envoy: lattice mounts. They are a type of gasket mount that allows for different typing feelings and also works for creating an isolated topmount.
 
 <figure class="my-6">
-  <img src="/assets/img/blog/sixtyfive-article/Latticemount.avif" alt="lattice mount" title="lattice mount"
+  <a href="/assets/img/blog/sixtyfive-article/Latticemount.avif" data-pswp-width="640" data-pswp-height="768" class="block cursor-zoom-in"><img width="640" height="768" src="/assets/img/blog/sixtyfive-article/Latticemount.avif" alt="lattice mount" title="lattice mount"
        loading="lazy"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mode Designs</a>
   </figcaption>

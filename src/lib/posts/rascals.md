@@ -14,9 +14,9 @@ author:
 ---
 
 <figure class="my-6">
-  <img src="/assets/img/blog/rascals/MTNU-1.avif" alt="Render by Afresh" title="Rascals"
+  <a href="/assets/img/blog/rascals/MTNU-1.avif" data-pswp-width="1920" data-pswp-height="1080" class="block cursor-zoom-in"><img src="/assets/img/blog/rascals/MTNU-1.avif" alt="Render by Afresh" title="Rascals"
        width="1920" height="1080" loading="eager"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Render by <a href="https://www.instagram.com/lykkostudio/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Afresh</a>
   </figcaption>
@@ -27,9 +27,9 @@ Let's start with a bit of backstory. Some of you may know the name GMK very well
 They are known for their Doubleshot ABS keycaps, which have a vast array of color and design choices. GMK until last year only produced in Cherry profile, which was introduced by Cherry in the 1980s. Many have adapted this profile, and it still gets used to this day, mostly on mechanical keyboards like gaming keyboards from Logitech or Razer.
 
 <figure class="my-6">
-  <img src="/assets/img/blog/rascals/MTNU-4.webp" alt="Image by GMK" title="Keycap profiles"
+  <a href="/assets/img/blog/rascals/MTNU-4.webp" data-pswp-width="1080" data-pswp-height="810" class="block cursor-zoom-in"><img width="1080" height="810" src="/assets/img/blog/rascals/MTNU-4.webp" alt="Image by GMK" title="Keycap profiles"
        loading="lazy"
-       class="block mx-auto w-full max-w-md rounded-sm" />
+       class="block mx-auto w-full max-w-md rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Image by <a href="https://www.instagram.com/gmk_keycaps/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">GMK</a>
   </figcaption>
@@ -43,15 +43,15 @@ After this, the first released sets with the new MTNU profile were classics like
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
-    <img src="/assets/img/blog/rascals/MTNU-7.webp" alt="Image by GMK" title="Image by GMK"
+    <a href="/assets/img/blog/rascals/MTNU-7.webp" data-pswp-width="2048" data-pswp-height="1365" class="block cursor-zoom-in"><img width="2048" height="1365" src="/assets/img/blog/rascals/MTNU-7.webp" alt="Image by GMK" title="Image by GMK"
          loading="lazy"
-         class="w-full aspect-3/2 object-cover rounded-sm" />
-    <img src="/assets/img/blog/rascals/MTNU-8.webp" alt="Image by GMK" title="Image by GMK"
+         class="w-full aspect-3/2 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/rascals/MTNU-8.webp" data-pswp-width="2048" data-pswp-height="1365" class="block cursor-zoom-in"><img width="2048" height="1365" src="/assets/img/blog/rascals/MTNU-8.webp" alt="Image by GMK" title="Image by GMK"
          loading="lazy"
-         class="w-full aspect-3/2 object-cover rounded-sm" />
-    <img src="/assets/img/blog/rascals/MTNU-9.webp" alt="Image by GMK" title="Image by GMK"
+         class="w-full aspect-3/2 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/rascals/MTNU-9.webp" data-pswp-width="2048" data-pswp-height="1365" class="block cursor-zoom-in"><img width="2048" height="1365" src="/assets/img/blog/rascals/MTNU-9.webp" alt="Image by GMK" title="Image by GMK"
          loading="lazy"
-         class="w-full aspect-3/2 object-cover rounded-sm" />
+         class="w-full aspect-3/2 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Renders by <a href="https://www.instagram.com/gmk_keycaps/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">GMK</a>
@@ -64,12 +64,12 @@ Afresh wanted to create a set about two characters that are constantly at war in
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/rascals/MTNU-6.gif" alt="Afresh logo gif" title="Afresh logo gif"
+    <a href="/assets/img/blog/rascals/MTNU-6.gif" data-pswp-width="1080" data-pswp-height="1080" class="block cursor-zoom-in"><img width="1080" height="1080" src="/assets/img/blog/rascals/MTNU-6.gif" alt="Afresh logo gif" title="Afresh logo gif"
          loading="lazy"
-         class="w-full aspect-square object-cover rounded-sm" />
-    <img src="/assets/img/blog/rascals/MTNU-5.avif" alt="MTNU keycaps" title="MTNU keycaps"
+         class="w-full aspect-square object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/rascals/MTNU-5.avif" data-pswp-width="1320" data-pswp-height="1320" class="block cursor-zoom-in"><img src="/assets/img/blog/rascals/MTNU-5.avif" alt="MTNU keycaps" title="MTNU keycaps"
          width="1320" height="1320" loading="lazy"
-         class="w-full aspect-square object-cover rounded-sm" />
+         class="w-full aspect-square object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Render by <a href="https://www.instagram.com/lykkostudio/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Afresh</a>,
@@ -85,9 +85,9 @@ After deciding on the colors of the set, he went straight to working on the nove
 After this, he worked on creating renders for the set. For this, he used Blender, which is the most used tool for rendering in the hobby. To streamline the process of creating the renders, he used the Keyboard Render Kit 2, which is a focused UI layout arranged to present useful tools and content to help anyone who wants to create a keycap set. This tool was created by [Imperfectlink](https://imperfectlink.gumroad.com/l/KRK2?layout=profile).
 
 <figure class="my-6">
-  <img src="/assets/img/blog/rascals/MTNU-10.avif" alt="Keyboard Rendering kit 2" title="Rascals"
+  <a href="/assets/img/blog/rascals/MTNU-10.avif" data-pswp-width="2400" data-pswp-height="1200" class="block cursor-zoom-in"><img width="2400" height="1200" src="/assets/img/blog/rascals/MTNU-10.avif" alt="Keyboard Rendering kit 2" title="Rascals"
        loading="lazy"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Renders by <a href="https://imperfectlink.gumroad.com/l/KRK2?layout=profile" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Imperfectlink</a>
   </figcaption>
@@ -104,9 +104,9 @@ They significantly shortened the process of color matching, which usually would 
 He is expecting to receive the color samples very soon, while also expecting to update the IC with the vendors that are going to run the set and some new renders.
 
 <figure class="my-6">
-  <img src="/assets/img/blog/rascals/MTNU-2.avif" alt="Render by Afresh" title="Rascals"
+  <a href="/assets/img/blog/rascals/MTNU-2.avif" data-pswp-width="2560" data-pswp-height="1440" class="block cursor-zoom-in"><img src="/assets/img/blog/rascals/MTNU-2.avif" alt="Render by Afresh" title="Rascals"
        width="2560" height="1440" loading="lazy"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Render by <a href="https://www.instagram.com/lykkostudio/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Afresh</a>
   </figcaption>

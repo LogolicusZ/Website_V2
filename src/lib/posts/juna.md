@@ -1,7 +1,7 @@
 ---
 title: Juna
 date: "2026-08-26"
-description: From a enthusiast to a designer
+description: From enthusiast to designer
 tags: [showcase, keyboards]
 banner:
   path: "/assets/img/projects/juna/Juna_cyan.avif"
@@ -38,9 +38,9 @@ author:
 </script>
 
 <figure class="my-6">
-  <img src="/assets/img/projects/juna/Juna_cyan.avif" alt="Juna in cyan" title="Juna"
+  <a href="/assets/img/projects/juna/Juna_cyan.avif" data-pswp-width="2560" data-pswp-height="1707" class="block cursor-zoom-in"><img src="/assets/img/projects/juna/Juna_cyan.avif" alt="Juna in cyan" title="Juna"
        width="2560" height="1707" loading="eager"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/bowlkeyboards/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Bowl</a>
   </figcaption>
@@ -220,5 +220,17 @@ Again, thank you to everyone I've met throughout this, and I can't wait to see w
 I hope everyone has a nice day!
 
 Logo out.
+
+## Sound test
+
+<div class="aspect-video my-6">
+  <iframe src="https://www.youtube.com/embed/7j0Cmh_V6-Q?si=6Q07r3gS10XkSmZs" 
+  title="YouTube video player"
+  class="w-full h-full rounded-sm"   
+  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+  allowfullscreen></iframe>
+</div>
+
+
 
 

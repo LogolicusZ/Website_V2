@@ -15,9 +15,9 @@ author:
 ---
 
 <figure class="my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-11.webp" alt="Render of Protagonist" title="Render of Protagonist"
+  <a href="/assets/img/blog/protagonist-article/protagonist-11.webp" data-pswp-width="2560" data-pswp-height="1440" class="block cursor-zoom-in"><img width="2560" height="1440" src="/assets/img/blog/protagonist-article/protagonist-11.webp" alt="Render of Protagonist" title="Render of Protagonist"
        loading="eager"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Render by <a href="https://www.instagram.com/zetina.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">ZetinaKB</a>
   </figcaption>
@@ -29,12 +29,12 @@ According to the Protagonist's designer Randall, the owner of Wired In, the indu
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/protagonist-article/protagonist-13.avif" alt="Image of 7v" title="Image of 7v"
+    <a href="/assets/img/blog/protagonist-article/protagonist-13.avif" data-pswp-width="1440" data-pswp-height="1440" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-13.avif" alt="Image of 7v" title="Image of 7v"
          width="1440" height="1440" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-sm" />
-    <img src="/assets/img/blog/protagonist-article/protagonist-12.avif" alt="Image of Tomo" title="Image of Tomo"
+         class="w-full aspect-4/5 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/protagonist-article/protagonist-12.avif" data-pswp-width="1440" data-pswp-height="1800" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-12.avif" alt="Image of Tomo" title="Image of Tomo"
          width="1440" height="1800" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-sm" />
+         class="w-full aspect-4/5 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/tylerkeyboard/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Tylerkeyboard</a>,
@@ -46,12 +46,12 @@ Randall believes that the Sonnet from Mode Designs was so successful because of 
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/protagonist-article/protagonist-14.avif" alt="Image of Sonnet" title="Image of Sonnet"
+    <a href="/assets/img/blog/protagonist-article/protagonist-14.avif" data-pswp-width="1440" data-pswp-height="1800" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-14.avif" alt="Image of Sonnet" title="Image of Sonnet"
          width="1440" height="1800" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-sm" />
-    <img src="/assets/img/blog/protagonist-article/protagonist-4.avif" alt="Image of Protagonist" title="Image of Protagonist"
+         class="w-full aspect-4/5 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/protagonist-article/protagonist-4.avif" data-pswp-width="1440" data-pswp-height="1528" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-4.avif" alt="Image of Protagonist" title="Image of Protagonist"
          width="1440" height="1528" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-sm" />
+         class="w-full aspect-4/5 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a>,
@@ -65,12 +65,12 @@ Randall wanted the Protagonist to have a deceivingly simple profile, yet still b
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/protagonist-article/protagonist-1.avif" alt="Image of Protagonist" title="Image of Protagonist"
+    <a href="/assets/img/blog/protagonist-article/protagonist-1.avif" data-pswp-width="1080" data-pswp-height="1080" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-1.avif" alt="Image of Protagonist" title="Image of Protagonist"
          width="1080" height="1080" loading="lazy"
-         class="w-full aspect-square object-cover rounded-sm" />
-    <img src="/assets/img/blog/protagonist-article/protagonist-2.avif" alt="Image of Protagonist" title="Image of Protagonist"
+         class="w-full aspect-square object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/protagonist-article/protagonist-2.avif" data-pswp-width="1080" data-pswp-height="1080" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-2.avif" alt="Image of Protagonist" title="Image of Protagonist"
          width="1080" height="1080" loading="lazy"
-         class="w-full aspect-square object-cover rounded-sm" />
+         class="w-full aspect-square object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Photos by <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Extrpriusplease.kb</a>
@@ -82,9 +82,9 @@ After bringing the design to life, hobbyists saw that they could personalize the
 As he refined the design, he noticed that the top case accent turned into a sort of picture frame surrounding the keys.
 
 <figure class="my-6">
-  <img src="/assets/img/blog/protagonist-article/protagonist-5.avif" alt="Image of Protagonist" title="Image of Protagonist"
+  <a href="/assets/img/blog/protagonist-article/protagonist-5.avif" data-pswp-width="1440" data-pswp-height="1528" class="block cursor-zoom-in"><img src="/assets/img/blog/protagonist-article/protagonist-5.avif" alt="Image of Protagonist" title="Image of Protagonist"
        width="1440" height="1528" loading="lazy"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/nainaigogo" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Nainaigogo</a>
   </figcaption>
@@ -94,12 +94,12 @@ He decided to call it the "Keyframe". The next step was figuring out how to conn
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/protagonist-article/protagonist-9.webp" alt="Render of protagonist exploded" title="Render of protagonist exploded"
+    <a href="/assets/img/blog/protagonist-article/protagonist-9.webp" data-pswp-width="2160" data-pswp-height="2160" class="block cursor-zoom-in"><img width="2160" height="2160" src="/assets/img/blog/protagonist-article/protagonist-9.webp" alt="Render of protagonist exploded" title="Render of protagonist exploded"
          loading="lazy"
-         class="w-full aspect-square object-cover rounded-sm" />
-    <img src="/assets/img/blog/protagonist-article/protagonist-10.webp" alt="Image of Protagonist Keyframes" title="Image of Protagonist Keyframes"
+         class="w-full aspect-square object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/protagonist-article/protagonist-10.webp" data-pswp-width="2560" data-pswp-height="1706" class="block cursor-zoom-in"><img width="2560" height="1706" src="/assets/img/blog/protagonist-article/protagonist-10.webp" alt="Image of Protagonist Keyframes" title="Image of Protagonist Keyframes"
          loading="lazy"
-         class="w-full aspect-square object-cover rounded-sm" />
+         class="w-full aspect-square object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Render and Photo by <a href="https://www.instagram.com/wiredinstore/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Wired In</a>

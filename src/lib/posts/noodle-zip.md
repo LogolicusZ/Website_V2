@@ -15,9 +15,9 @@ author:
 ---
 
 <figure class="my-6">
-  <img src="/assets/img/blog/noodle/noodle7.avif" alt="Noodle.Zip photo" title="logolicusz"
+  <a href="/assets/img/blog/noodle/noodle7.avif" data-pswp-width="2560" data-pswp-height="1707" class="block cursor-zoom-in"><img src="/assets/img/blog/noodle/noodle7.avif" alt="Noodle.Zip photo" title="logolicusz"
        width="2560" height="1707" loading="eager"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
   </figcaption>
@@ -29,12 +29,12 @@ The keyboard's design includes various engravings that reference Miyeon, such as
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-    <img src="/assets/img/blog/noodle/noodle16.avif" alt="Noodle.Zip photo" title="LogolicusZ"
+    <a href="/assets/img/blog/noodle/noodle16.avif" data-pswp-width="2560" data-pswp-height="3840" class="block cursor-zoom-in"><img src="/assets/img/blog/noodle/noodle16.avif" alt="Noodle.Zip photo" title="LogolicusZ"
          width="2560" height="3840" loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-sm" />
-    <img src="/assets/img/blog/noodle/noodle18.avif" alt="Noodle.Zip photo" title="LogolicusZ"
+         class="w-full aspect-2/3 object-cover rounded-sm" /></a>
+    <a href="/assets/img/blog/noodle/noodle18.avif" data-pswp-width="2560" data-pswp-height="3840" class="block cursor-zoom-in"><img src="/assets/img/blog/noodle/noodle18.avif" alt="Noodle.Zip photo" title="LogolicusZ"
          width="2560" height="3840" loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-sm" />
+         class="w-full aspect-2/3 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
     Photos by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
@@ -46,9 +46,9 @@ The [Noodle.Zip](http://Noodle.Zip) is a classic F12, WKL keyboard with a typing
 The keyboard's color is misty lilac, which can appear pale or saturated depending on the lighting.
 
 <figure class="my-6">
-  <img src="/assets/img/blog/noodle/noodle8.avif" alt="Noodle.Zip photo" title="LogolicusZ"
+  <a href="/assets/img/blog/noodle/noodle8.avif" data-pswp-width="2560" data-pswp-height="1707" class="block cursor-zoom-in"><img src="/assets/img/blog/noodle/noodle8.avif" alt="Noodle.Zip photo" title="LogolicusZ"
        width="2560" height="1707" loading="lazy"
-       class="w-full rounded-sm" />
+       class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
     Photo by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
   </figcaption>
