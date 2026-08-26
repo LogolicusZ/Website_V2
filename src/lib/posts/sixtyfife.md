@@ -10,7 +10,7 @@ banner:
   height: 1146
 author:
   name: LogolicusZ
-  social: https://www.instagram.com/logolicusz
+  social: https://www.instagram.com/logolicusz.kb
 ---
 
 <figure class="my-6">

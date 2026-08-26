@@ -1,5 +1,22 @@
 <script lang="ts">
+  import { onMount, onDestroy } from 'svelte';
+  import { initPhotoSwipe } from '$lib/photoswipe';
+
   let { data } = $props();
+
+  // Images in post bodies opt in by wrapping in <a data-pswp-width …>, giving
+  // them the same click-to-zoom behaviour as the Gallery and Projects pages.
+  let bodyEl: HTMLDivElement;
+  let destroyLightbox: (() => void) | null = null;
+
+  onMount(() => {
+    destroyLightbox = initPhotoSwipe(bodyEl);
+  });
+
+  onDestroy(() => {
+    destroyLightbox?.();
+    destroyLightbox = null;
+  });
   const { content: Content, meta } = data;
 
   // Explicit locale — a bare toLocaleDateString() formats with the server's
@@ -31,6 +48,7 @@
   <!-- Typography defaults are overridden to match the rest of the site:
        serif headings, neutral muted text, rounded-sm imagery. -->
   <div
+    bind:this={bodyEl}
     class="prose prose-neutral mt-[clamp(2.5rem,6vw,4rem)] max-w-none
            prose-headings:font-serif prose-headings:font-normal prose-headings:tracking-tight
            prose-h2:mt-[1.8em] prose-h2:mb-[0.7em] prose-h2:text-2xl sm:prose-h2:text-3xl

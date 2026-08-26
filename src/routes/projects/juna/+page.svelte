@@ -12,7 +12,7 @@
   ];
 
   const images = [
-    { src: '/assets/img/projects/juna/Juna_cyan.avif', alt: 'Photo 1', width: 2560, height: 1920 },
+    { src: '/assets/img/projects/juna/Juna_cyan.avif', alt: 'Photo 1', width: 2560, height: 1707 },
     { src: '/assets/img/projects/juna/file_6.avif',  alt: 'Photo 2', width: 2560, height: 1920 },
     { src: '/assets/img/projects/juna/file_7.avif',  alt: 'Photo 3', width: 2560, height: 1920 },
     { src: '/assets/img/projects/juna/file_8.avif',  alt: 'Photo 4', width: 2560, height: 1920 },

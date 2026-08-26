@@ -1,5 +1,6 @@
 <script lang="ts">
   import { inview } from '$lib/utils/inview';
+  import ContactCta from '$lib/components/ContactCta.svelte';
 </script>
 
 <svelte:head>
@@ -27,3 +28,5 @@
     Keyboards, photography and the occasional bit of code. Have a look around.
   </p>
 </div>
+
+<ContactCta />

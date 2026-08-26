@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { onMount, onDestroy } from 'svelte';
-	import { initPhotoSwipe, destroyPhotoSwipe } from '$lib/photoswipe';
+	import { initPhotoSwipe } from '$lib/photoswipe';
 	import { inview } from '$lib/utils/inview';
 
 	type Image = {
@@ -14,6 +14,7 @@
 	export let hero: Image | null = null;
 
 	let galleryEl: HTMLDivElement;
+	let destroyLightbox: (() => void) | null = null;
 	let columnCount = 3;
 
 	function computeColumnCount() {
@@ -40,14 +41,15 @@
 	onMount(() => {
 		computeColumnCount();
 		window.addEventListener('resize', computeColumnCount);
-		initPhotoSwipe(galleryEl);
+		destroyLightbox = initPhotoSwipe(galleryEl);
 	});
 
 	onDestroy(() => {
 		if (typeof window !== 'undefined') {
 			window.removeEventListener('resize', computeColumnCount);
 		}
-		destroyPhotoSwipe();
+		destroyLightbox?.();
+		destroyLightbox = null;
 	});
 </script>
 

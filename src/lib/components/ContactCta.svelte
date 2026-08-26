@@ -1,4 +1,4 @@
-<section aria-label="Get in touch" class="px-gutter mt-[clamp(2.5rem,5vw,4.5rem)]">
+<section aria-label="Get in touch" class="mt-[clamp(2.5rem,5vw,4.5rem)]">
   <a
     href="/contact/"
     style="--accent: var(--color-accent-green)"
