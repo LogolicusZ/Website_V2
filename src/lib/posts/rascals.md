@@ -16,9 +16,9 @@ author:
 <figure class="my-6">
   <img src="/assets/img/blog/rascals/MTNU-1.avif" alt="Render by Afresh" title="Rascals"
        width="1920" height="1080" loading="eager"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Render by <a href="https://www.instagram.com/lykkostudio/" class="underline hover:text-gray-700">Afresh</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Render by <a href="https://www.instagram.com/lykkostudio/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Afresh</a>
   </figcaption>
 </figure>
 
@@ -29,9 +29,9 @@ They are known for their Doubleshot ABS keycaps, which have a vast array of colo
 <figure class="my-6">
   <img src="/assets/img/blog/rascals/MTNU-4.webp" alt="Image by GMK" title="Keycap profiles"
        loading="lazy"
-       class="block mx-auto w-full max-w-md rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Image by <a href="https://www.instagram.com/gmk_keycaps/" class="underline hover:text-gray-700">GMK</a>
+       class="block mx-auto w-full max-w-md rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Image by <a href="https://www.instagram.com/gmk_keycaps/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">GMK</a>
   </figcaption>
 </figure>
 
@@ -45,16 +45,16 @@ After this, the first released sets with the new MTNU profile were classics like
   <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
     <img src="/assets/img/blog/rascals/MTNU-7.webp" alt="Image by GMK" title="Image by GMK"
          loading="lazy"
-         class="w-full aspect-3/2 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-3/2 object-cover rounded-sm" />
     <img src="/assets/img/blog/rascals/MTNU-8.webp" alt="Image by GMK" title="Image by GMK"
          loading="lazy"
-         class="w-full aspect-3/2 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-3/2 object-cover rounded-sm" />
     <img src="/assets/img/blog/rascals/MTNU-9.webp" alt="Image by GMK" title="Image by GMK"
          loading="lazy"
-         class="w-full aspect-3/2 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-3/2 object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Renders by <a href="https://www.instagram.com/gmk_keycaps/" class="underline hover:text-gray-700">GMK</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Renders by <a href="https://www.instagram.com/gmk_keycaps/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">GMK</a>
   </figcaption>
 </figure>
 
@@ -66,14 +66,14 @@ Afresh wanted to create a set about two characters that are constantly at war in
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/rascals/MTNU-6.gif" alt="Afresh logo gif" title="Afresh logo gif"
          loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
     <img src="/assets/img/blog/rascals/MTNU-5.avif" alt="MTNU keycaps" title="MTNU keycaps"
          width="1320" height="1320" loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Render by <a href="https://www.instagram.com/lykkostudio/" class="underline hover:text-gray-700">Afresh</a>,
-    Photo by <a href="https://www.instagram.com/gmk_keycaps/" class="underline hover:text-gray-700">GMK</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Render by <a href="https://www.instagram.com/lykkostudio/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Afresh</a>,
+    Photo by <a href="https://www.instagram.com/gmk_keycaps/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">GMK</a>
   </figcaption>
 </figure>
 
@@ -87,9 +87,9 @@ After this, he worked on creating renders for the set. For this, he used Blender
 <figure class="my-6">
   <img src="/assets/img/blog/rascals/MTNU-10.avif" alt="Keyboard Rendering kit 2" title="Rascals"
        loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Renders by <a href="https://imperfectlink.gumroad.com/l/KRK2?layout=profile" class="underline hover:text-gray-700">Imperfectlink</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Renders by <a href="https://imperfectlink.gumroad.com/l/KRK2?layout=profile" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Imperfectlink</a>
   </figcaption>
 </figure>
 
@@ -106,9 +106,9 @@ He is expecting to receive the color samples very soon, while also expecting to 
 <figure class="my-6">
   <img src="/assets/img/blog/rascals/MTNU-2.avif" alt="Render by Afresh" title="Rascals"
        width="2560" height="1440" loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Render by <a href="https://www.instagram.com/lykkostudio/" class="underline hover:text-gray-700">Afresh</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Render by <a href="https://www.instagram.com/lykkostudio/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Afresh</a>
   </figcaption>
 </figure>
 

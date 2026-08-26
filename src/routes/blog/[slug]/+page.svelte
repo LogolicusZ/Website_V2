@@ -28,7 +28,17 @@
     {/if}
   </header>
 
-  <div class="prose mt-[clamp(2.5rem,6vw,4rem)] max-w-none">
+  <!-- Typography defaults are overridden to match the rest of the site:
+       serif headings, neutral muted text, rounded-sm imagery. -->
+  <div
+    class="prose prose-neutral mt-[clamp(2.5rem,6vw,4rem)] max-w-none
+           prose-headings:font-serif prose-headings:font-normal prose-headings:tracking-tight
+           prose-h2:mt-[1.8em] prose-h2:mb-[0.7em] prose-h2:text-2xl sm:prose-h2:text-3xl
+           prose-p:text-pretty prose-p:leading-relaxed
+           prose-img:rounded-sm prose-img:my-0
+           prose-figure:my-[clamp(1.75rem,4vw,2.75rem)]
+           prose-figcaption:mt-3 prose-figcaption:text-neutral-500"
+  >
     <Content />
   </div>
 </article>

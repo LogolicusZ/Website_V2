@@ -17,9 +17,9 @@ author:
 <figure class="my-6">
   <img src="/assets/img/blog/Gehirn-article/Gehirn13.avif" alt="Gehirn TKL Images" title="Markerchun"
        width="2560" height="1920" loading="eager"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/markerchun/" class="underline hover:text-gray-700">Markerchun</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/markerchun/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Markerchun</a>
   </figcaption>
 </figure>
 
@@ -33,13 +33,13 @@ Regarding Baion, Manu, one of the most well-known vendor managers, has taken him
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/Gehirn-article/Gehirn1.avif" alt="Gehirn TKL Images" title="Alexotos"
          width="1440" height="1440" loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
     <img src="/assets/img/blog/Gehirn-article/Gehirn2.avif" alt="Gehirn TKL Images" title="Alexotos"
          width="1440" height="1440" loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a>
   </figcaption>
 </figure>
 
@@ -55,9 +55,9 @@ Many people appreciate this feature as it eliminates the need to open up the ent
 
 <figure class="my-6">
   <img src="/assets/img/blog/Gehirn-article/Gehirn12.webp" alt="Gehirn TKL Images" title="Baionlenja"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/baionlenja" class="underline hover:text-gray-700">Baionlenja</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/baionlenja" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Baionlenja</a>
   </figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ Both R1 participants and future R2 joiners can look forward to a board that cate
 <div class="aspect-video my-6">
   <iframe src="https://www.youtube.com/embed/nNGA-pVOH6k?si=oSCSeXzpCojrvfHl"
           title="YouTube video player"
-          class="w-full h-full rounded-md border-2 border-zinc-800"
+          class="w-full h-full rounded-sm"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"

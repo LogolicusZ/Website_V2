@@ -17,9 +17,9 @@ author:
 <figure class="my-6">
   <img src="/assets/img/blog/noodle/noodle7.avif" alt="Noodle.Zip photo" title="logolicusz"
        width="2560" height="1707" loading="eager"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/logolicusz/" class="underline hover:text-gray-700">LogolicusZ</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
   </figcaption>
 </figure>
 
@@ -31,13 +31,13 @@ The keyboard's design includes various engravings that reference Miyeon, such as
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/noodle/noodle16.avif" alt="Noodle.Zip photo" title="LogolicusZ"
          width="2560" height="3840" loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-2/3 object-cover rounded-sm" />
     <img src="/assets/img/blog/noodle/noodle18.avif" alt="Noodle.Zip photo" title="LogolicusZ"
          width="2560" height="3840" loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-2/3 object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photos by <a href="https://www.instagram.com/logolicusz/" class="underline hover:text-gray-700">LogolicusZ</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photos by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
   </figcaption>
 </figure>
 
@@ -48,9 +48,9 @@ The keyboard's color is misty lilac, which can appear pale or saturated dependin
 <figure class="my-6">
   <img src="/assets/img/blog/noodle/noodle8.avif" alt="Noodle.Zip photo" title="LogolicusZ"
        width="2560" height="1707" loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/logolicusz/" class="underline hover:text-gray-700">LogolicusZ</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
   </figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ Even though I'm not the biggest fan of K-pop in general, I do really enjoy all o
 <div class="aspect-video my-6">
   <iframe src="https://www.youtube.com/embed/W5V0r71_JRY?si=Bn7hmgh_F-1xhAx8"
           title="YouTube video player"
-          class="w-full h-full rounded-md border-2 border-zinc-800"
+          class="w-full h-full rounded-sm"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"

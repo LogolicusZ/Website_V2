@@ -16,9 +16,9 @@ author:
 <figure class="my-6">
   <img src="/assets/img/blog/spyder-article/Spyder5.avif" alt="Spyder TKL Images" title="Image by extra Prius"
        width="1440" height="1152" loading="eager"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/extrapriusplease.kb/" class="underline hover:text-gray-700">Extrapriusplease</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Extrapriusplease</a>
   </figcaption>
 </figure>
 
@@ -29,9 +29,9 @@ Speeding trough the years, the spyder went trough numerous changes build up to t
 <figure class="my-6">
   <img src="/assets/img/blog/spyder-article/car1.avif" alt="Spyder 550" title="Image by extra Prius"
        width="2333" height="3500" loading="lazy"
-       class="block mx-auto w-2/5 rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://unsplash.com/photos/a-close-up-of-a-car-parked-in-a-field-UhTNl-xLOCU" class="underline hover:text-gray-700">Markus Spiske</a>
+       class="block mx-auto w-2/5 rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://unsplash.com/photos/a-close-up-of-a-car-parked-in-a-field-UhTNl-xLOCU" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Markus Spiske</a>
   </figcaption>
 </figure>
 
@@ -42,9 +42,9 @@ The Spyder effortlessly blends classic and modern design aspects, which have bee
 <figure class="my-6">
   <img src="/assets/img/blog/spyder-article/Spyder6.avif" alt="Spyder 550" title="Image by Captainsterling"
        width="2560" height="1707" loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/p/C4Dlw5-OCrH/?hl=en&img_index=1" class="underline hover:text-gray-700">Captain Sterling</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/p/C4Dlw5-OCrH/?hl=en&img_index=1" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Captain Sterling</a>
   </figcaption>
 </figure>
 
@@ -59,7 +59,7 @@ Check out Plywrks social if you want to know more about the board! The groupbuy 
 <div class="aspect-video my-6">
   <iframe src="https://www.youtube.com/embed/cQe-mQUS7KI?si=hxLRQGXMZsIjuqr7"
           title="YouTube video player"
-          class="w-full h-full rounded-md border-2 border-zinc-800"
+          class="w-full h-full rounded-sm"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"

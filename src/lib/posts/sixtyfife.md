@@ -16,9 +16,9 @@ author:
 <figure class="my-6">
   <img src="/assets/img/blog/sixtyfive-article/SixtyFive6.avif" alt="Image by Nainaigogo" title="Mode SixtyFive"
        width="1080" height="1146" loading="eager"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/nainaigogo/" class="underline hover:text-gray-700">Nainaigogo</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/nainaigogo/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Nainaigogo</a>
   </figcaption>
 </figure>
 
@@ -32,16 +32,16 @@ In 2021, they released the original SixtyFive, which was well received for its b
   <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
     <img src="/assets/img/blog/sixtyfive-article/SixtyFive1.avif" alt="Mode Designs" title="Mode Designs"
          loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-2/3 object-cover rounded-sm" />
     <img src="/assets/img/blog/sixtyfive-article/SixtyFive2.avif" alt="Mode Designs" title="Mode Designs"
          loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-2/3 object-cover rounded-sm" />
     <img src="/assets/img/blog/sixtyfive-article/SixtyFive7.avif" alt="Mode Designs" title="Mode Designs"
          loading="lazy"
-         class="w-full aspect-2/3 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-2/3 object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="underline hover:text-gray-700">Mode Designs</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mode Designs</a>
   </figcaption>
 </figure>
 
@@ -58,9 +58,9 @@ After the pre-order window, Mode tries to keep a certain amount of parts in stoc
 <figure class="my-6">
   <img src="/assets/img/blog/sixtyfive-article/ModeWeights.avif" alt="Weights" title="Weights"
        loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="underline hover:text-gray-700">Mode Designs</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mode Designs</a>
   </figcaption>
 </figure>
 
@@ -72,13 +72,13 @@ Following this, we can see how Mode has implemented this concept into all of the
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/sixtyfive-article/SixtyFive3.avif" alt="Gehirn TKL Images" title="Alexotos"
          width="1080" height="1350" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-4/5 object-cover rounded-sm" />
     <img src="/assets/img/blog/sixtyfive-article/SixtyFive4.avif" alt="Gehirn TKL Images" title="Alexotos"
          width="1080" height="1350" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-4/5 object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a>
   </figcaption>
 </figure>
 
@@ -87,9 +87,9 @@ Now, let's talk about the New SixtyFive. It combines the aesthetics of the old S
 <figure class="my-6">
   <img src="/assets/img/blog/sixtyfive-article/Latticemount.avif" alt="lattice mount" title="lattice mount"
        loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="underline hover:text-gray-700">Mode Designs</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://modedesigns.com/pages/sixtyfive" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mode Designs</a>
   </figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ I think that Mode has done a fabulous job with the new SixtyFive, allowing for a
 <div class="aspect-video my-6">
   <iframe src="https://www.youtube.com/embed/mJJHJyMPSTI?si=8-zZ74rrWyt5Qyda&amp;start=1488"
           title="YouTube video player"
-          class="w-full h-full rounded-md border-2 border-zinc-800"
+          class="w-full h-full rounded-sm"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerpolicy="strict-origin-when-cross-origin"

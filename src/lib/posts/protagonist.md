@@ -17,9 +17,9 @@ author:
 <figure class="my-6">
   <img src="/assets/img/blog/protagonist-article/protagonist-11.webp" alt="Render of Protagonist" title="Render of Protagonist"
        loading="eager"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Render by <a href="https://www.instagram.com/zetina.kb/" class="underline hover:text-gray-700">ZetinaKB</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Render by <a href="https://www.instagram.com/zetina.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">ZetinaKB</a>
   </figcaption>
 </figure>
 
@@ -31,14 +31,14 @@ According to the Protagonist's designer Randall, the owner of Wired In, the indu
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/protagonist-article/protagonist-13.avif" alt="Image of 7v" title="Image of 7v"
          width="1440" height="1440" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-4/5 object-cover rounded-sm" />
     <img src="/assets/img/blog/protagonist-article/protagonist-12.avif" alt="Image of Tomo" title="Image of Tomo"
          width="1440" height="1800" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-4/5 object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/tylerkeyboard/" class="underline hover:text-gray-700">Tylerkeyboard</a>,
-    Photo by <a href="https://www.instagram.com/taehatypes/" class="underline hover:text-gray-700">Taehatypes</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/tylerkeyboard/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Tylerkeyboard</a>,
+    Photo by <a href="https://www.instagram.com/taehatypes/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Taehatypes</a>
   </figcaption>
 </figure>
 
@@ -48,14 +48,14 @@ Randall believes that the Sonnet from Mode Designs was so successful because of 
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/protagonist-article/protagonist-14.avif" alt="Image of Sonnet" title="Image of Sonnet"
          width="1440" height="1800" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-4/5 object-cover rounded-sm" />
     <img src="/assets/img/blog/protagonist-article/protagonist-4.avif" alt="Image of Protagonist" title="Image of Protagonist"
          width="1440" height="1528" loading="lazy"
-         class="w-full aspect-4/5 object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-4/5 object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/alexotos/" class="underline hover:text-gray-700">Alexotos</a>,
-    Photo by <a href="https://www.instagram.com/nainaigogo/" class="underline hover:text-gray-700">Nainaigogo</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a>,
+    Photo by <a href="https://www.instagram.com/nainaigogo/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Nainaigogo</a>
   </figcaption>
 </figure>
 
@@ -67,13 +67,13 @@ Randall wanted the Protagonist to have a deceivingly simple profile, yet still b
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/protagonist-article/protagonist-1.avif" alt="Image of Protagonist" title="Image of Protagonist"
          width="1080" height="1080" loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
     <img src="/assets/img/blog/protagonist-article/protagonist-2.avif" alt="Image of Protagonist" title="Image of Protagonist"
          width="1080" height="1080" loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Photos by <a href="https://www.instagram.com/extrapriusplease.kb/" class="underline hover:text-gray-700">Extrpriusplease.kb</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photos by <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Extrpriusplease.kb</a>
   </figcaption>
 </figure>
 
@@ -84,9 +84,9 @@ As he refined the design, he noticed that the top case accent turned into a sort
 <figure class="my-6">
   <img src="/assets/img/blog/protagonist-article/protagonist-5.avif" alt="Image of Protagonist" title="Image of Protagonist"
        width="1440" height="1528" loading="lazy"
-       class="w-full rounded-md border-2 border-zinc-800" />
-  <figcaption class="text-sm text-center text-gray-500">
-    Photo by <a href="https://www.instagram.com/nainaigogo" class="underline hover:text-gray-700">Nainaigogo</a>
+       class="w-full rounded-sm" />
+  <figcaption class="text-sm text-center text-neutral-500">
+    Photo by <a href="https://www.instagram.com/nainaigogo" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Nainaigogo</a>
   </figcaption>
 </figure>
 
@@ -96,13 +96,13 @@ He decided to call it the "Keyframe". The next step was figuring out how to conn
   <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
     <img src="/assets/img/blog/protagonist-article/protagonist-9.webp" alt="Render of protagonist exploded" title="Render of protagonist exploded"
          loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
     <img src="/assets/img/blog/protagonist-article/protagonist-10.webp" alt="Image of Protagonist Keyframes" title="Image of Protagonist Keyframes"
          loading="lazy"
-         class="w-full aspect-square object-cover rounded-md border-2 border-zinc-800" />
+         class="w-full aspect-square object-cover rounded-sm" />
   </div>
-  <figcaption class="text-sm text-center text-gray-500">
-    Render and Photo by <a href="https://www.instagram.com/wiredinstore/" class="underline hover:text-gray-700">Wired In</a>
+  <figcaption class="text-sm text-center text-neutral-500">
+    Render and Photo by <a href="https://www.instagram.com/wiredinstore/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Wired In</a>
   </figcaption>
 </figure>
 
