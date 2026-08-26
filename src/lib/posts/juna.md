@@ -172,7 +172,7 @@ I received the board a few months later, just in time for it to be shown off at 
          class="w-full aspect-3/2 object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
-    Photos by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">LogolicusZ</a>
+    Photos by Def_
   </figcaption>
 </figure>
 
