@@ -203,7 +203,7 @@ I also want to give a big shout out to Alexotos, ExtraPriusPlease (EPP), and Mug
          class="w-full aspect-square object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
-    Profile pictures of <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a> , <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">EPP</a> and <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mugen</a>
+    Profile pictures of <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a> , <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">EPP</a> and <a href="https://www.instagram.com/mugen.kbd/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mugen</a>
   </figcaption>
 </figure>
 
