@@ -29,7 +29,9 @@
   /* dark mode primary: #9f60f2 */
   --color-base-100: #fffefb;
   --color-base-content: oklch(0.141 0.005 285.823);
-  --color-link-primary: var(--color-primary);
+  /* Default link colour. Was the old pink (--color-primary), which is a
+     leftover from the previous palette and no longer used anywhere else. */
+  --color-link-primary: var(--color-accent-green);
   --color-link-secondary: var(--color-secondary);
 
   /* Green accents for nav/footer hovers. Fully saturated for vibrancy, with
