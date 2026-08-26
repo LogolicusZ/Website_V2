@@ -43,7 +43,7 @@
   --text-logotype: clamp(1.5rem, 4.13vw, 3.9rem);
   --text-nav: clamp(1.15rem, 2.08vw, 1.97rem);
   --text-contact: clamp(2.2rem, 5.5vw, 5.25rem);
-  --text-social: clamp(1.125rem, 3.05vw, 2.9rem);
+  --text-social: clamp(0.95rem, 2.45vw, 2.3rem);
 
   --spacing-gutter: clamp(1rem, 3.37vw, 3.2rem);
   --spacing-block: clamp(3rem, 6.6vw, 6.25rem);
