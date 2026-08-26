@@ -57,6 +57,20 @@ a:not(.unset-link) {
   @apply text-link-primary cursor-pointer underline hover:brightness-[80%];
 }
 
+/* Links inside post bodies are green, not the site-wide pink. Covers both
+   markdown links and the <a> tags written into figcaptions. Scoped to .prose
+   so links on other pages are unaffected. */
+.prose a,
+.prose a.unset-link {
+  color: var(--color-accent-green);
+  text-underline-offset: 2px;
+}
+
+.prose a:hover,
+.prose a.unset-link:hover {
+  color: var(--color-accent-forest);
+}
+
 .reveal {
   opacity: 0;
   transform: translateY(16px);

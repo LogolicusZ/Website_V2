@@ -35,9 +35,9 @@ Speeding trough the years, the spyder went trough numerous changes build up to t
   </figcaption>
 </figure>
 
-Tho the Inspiration on of the Porsche is very light, as some of you that have been in this hobby for a while, will have noticed the a familiar sight of a particular wedge, its from the OTD360 corsa! The Corsa was first shown of 2014 on an Geekhack thread and has its particular wedge has shown up in multiple keyboards since then.
+Though the inspiration of the Porsche is very light, as some of you that have been in this hobby for a while will have noticed the familiar sight of a particular wedge, it's from the OTD360 Corsa! The Corsa was first shown in 2014 on a Geekhack thread and its particular wedge has shown up in multiple keyboards since then.
 
-The Spyder effortlessly blends classic and modern design aspects, which have been seen in multiple of the most influentaial boards in this hobby. Creating a timeless piece that will look good on every desk you put it on. Plyworks also opted to use the Hiney87 pcb layout ensuring that the buyers can get replacement PCB easily.
+The Spyder effortlessly blends classic and modern design aspects, which have been seen in multiple of the most influential boards in this hobby, creating a timeless piece that will look good on every desk you put it on. Plyworks also opted to use the Hiney87 PCB layout, ensuring that buyers can get replacement PCBs easily.
 
 <figure class="my-6">
   <img src="/assets/img/blog/spyder-article/Spyder6.avif" alt="Spyder 550" title="Image by Captainsterling"
@@ -48,11 +48,11 @@ The Spyder effortlessly blends classic and modern design aspects, which have bee
   </figcaption>
 </figure>
 
-Plywrks has set a minimum of 50 boards for his GB but wants to leave it uncapped, so that anyone who decides they do want the board still get the chance to pick it up. As many other designers, Plywrks decided to keep most of the information and updates on this board of Geek Hack but rather releasing more infos on his Discord and Instagram. Which will be linked below.
+Plywrks has set a minimum of 50 boards for his GB but wants to leave it uncapped, so that anyone who decides they do want the board still gets the chance to pick it up. Like many other designers, Plywrks decided to keep most of the information and updates on this board off Geekhack, rather releasing more info on his Discord and Instagram, which will be linked below.
 
-In the past few years we have seen that many boards have taken inspirations from other mediums, one of its favorite mediums being Anime. The Designer has managed to define what it means to be "inspired" without having direct elements of the other medium creating a look that is classic but at the same time original.
+In the past few years we have seen that many boards have taken inspiration from other mediums, one of its favorite mediums being anime. The designer has managed to define what it means to be "inspired" without having direct elements of the other medium, creating a look that is classic but at the same time original.
 
-Check out Plywrks social if you want to know more about the board! The groupbuy for the Spyder TKL is to take place in May of 2024.
+Check out Plywrks' socials if you want to know more about the board! The groupbuy for the Spyder TKL is to take place in May of 2024.
 
 ## Sound Test
 

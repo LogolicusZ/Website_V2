@@ -87,4 +87,4 @@ Both R1 participants and future R2 joiners can look forward to a board that cate
 
 [Baionlenjas Instagram](https://www.instagram.com/baionlenja/)
 
-[Baionlenjas Discord](https://discord.com/invite/baionlenja)s
+[Baionlenjas Discord](https://discord.com/invite/baionlenja)
