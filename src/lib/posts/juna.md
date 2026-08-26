@@ -1,7 +1,7 @@
 ---
 title: Juna
 date: "2026-08-26"
-description: From enthusiast to designer
+description: From an enthusiast to a designer
 tags: [showcase, keyboards]
 banner:
   path: "/assets/img/projects/juna/Juna_cyan.avif"
@@ -69,7 +69,7 @@ Since I barely knew anything about designing at all, I decided to see if anyone 
        width="2328" height="1272" loading="eager"
        class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
-    Photo from <a href="https://www.instagram.com/markerchun/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">DDS</a>
+    Fusion 360 Screenshot
   </figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ This led me to check out their projects on GitHub and play around with the desig
 
 Although this allowed me to learn a lot about how a finished design looked, it always sort of felt wrong to just re-hash someone's finished design with just a different name and engraving, even if it was an open-sourced keyboard.
 
-While checking out the open-source projects from Shy, I started conversing with him over Discord, asking him tons of questions about certain details, like how big WKL blockers are or what the margin is for this and that, etc...
+While checking out the open-source projects from [Shy](https://github.com/Steinkampdesigns), I started conversing with him over Discord, asking him tons of questions about certain details, like how big WKL blockers are or what the margin is for this and that, etc...
 
 He kindly offered to send me a full recording of him making a 60% from the first sketch to the final fillet. This was probably the most influential piece of media for me when it came to keyboard designing.
 
@@ -93,10 +93,10 @@ And now, closing off this chapter, we come to what the outcome was of that "how 
 
 Juna is the result of me following the basic ideas that Shy showed me in his guide while also adding my own touch.
 
-Ever since learning about the history of this hobby and OTD, I have always been fascinated with the simplicity of the 360C and yet how classy it managed to look. So I decided to make Juna a more modernized 60% version of the 360C.
+Ever since learning about the history of this hobby and [OTD](https://geekhack.org/index.php?topic=123118.0), I have always been fascinated with the simplicity of the 360C and yet how classy it managed to look. So I decided to make Juna a more modernized 60% version of the 360C.
 
 The name and theme of the board stem from the Charm album by Clairo!
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2mWfVxEo4xZYDaz0v7hYrN?utm_source=generator&si=0a11e6bbbd7f4289" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" title="Juna by Clairo" src="https://open.spotify.com/embed/track/2mWfVxEo4xZYDaz0v7hYrN?utm_source=generator&si=0a11e6bbbd7f4289" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The design started off very cleanly, with just a simple engraving of the name of the board on the inside of the weight.
 
@@ -107,7 +107,7 @@ This is also when I decided I wanted to make a small run of this keyboard, or at
        width="1449" height="1076" loading="eager"
        class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
-    Photo from <a href="https://www.instagram.com/markerchun/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">DDS</a>
+    Fusion 360 Screenshot
   </figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ Here you can see how a keyboard looks right out of the CNC machine:
        width="2560" height="1920" loading="eager"
        class="w-full rounded-sm" /></a>
   <figcaption class="text-sm text-center text-neutral-500">
-    Photo from <a href="https://www.instagram.com/markerchun/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">DDS</a>
+    Photo from DDS
   </figcaption>
 </figure>
 
@@ -130,7 +130,10 @@ And how it looks once it's finished:
 
 <figure class="my-6 not-prose">
   <Carousel images={ddsProto} />
-  <figcaption class="mt-3 text-sm text-center text-neutral-500">The finished DDS prototype.</figcaption>
+  <figcaption 
+    class="mt-3 text-sm text-center text-neutral-500">The finished DDS prototype -
+    Photos by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Me</a>
+  </figcaption>
 </figure>
 
 Although I was happy with how the proto turned out, it did have a few issues that I needed to fix before running any sort of group buy:
@@ -149,7 +152,10 @@ After making that last final change, I ordered another prototype in June of 2025
 
 <figure class="my-6 not-prose">
   <Carousel images={finalProto} />
-  <figcaption class="mt-3 text-sm text-center text-neutral-500">The June 2025 prototype.</figcaption>
+  <figcaption 
+    class="mt-3 text-sm text-center text-neutral-500">The June 2025 prototype - 
+    Photos by <a href="https://www.instagram.com/logolicusz/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Me</a>
+  </figcaption>
 </figure>
 
 Not long after releasing the IC, I approached Jae from [Prototypist Keyboards](https://prototypist.net/) to see if they might be interested in vendoring the project, which he agreed to do — something that still feels a little surreal to me.
@@ -182,7 +188,7 @@ We got some quotes from Keyreative that we were happy with, and shortly after ma
 
 Finally, the GB for Juna opened on the 27th of April, followed shortly by the first review stream by Alexotos on May 3rd.
 
-I also want to take a second to give a big thanks to Alexotos, ExtraPriusPlease (EPP), and Mugen for showcasing the board and taking some awesome pictures of it.
+I also want to give a big shout out to Alexotos, ExtraPriusPlease (EPP), and Mugen for showcasing the board and taking some awesome pictures of it.
 
 <figure class="my-6">
   <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
@@ -192,13 +198,12 @@ I also want to take a second to give a big thanks to Alexotos, ExtraPriusPlease 
     <a href="/assets/img/blog/juna/epp.avif" data-pswp-width="900" data-pswp-height="900" class="block cursor-zoom-in"><img src="/assets/img/blog/juna/epp.avif" alt="Juna photographed by the community" title="Juna"
          width="900" height="900" loading="lazy"
          class="w-full aspect-square object-cover rounded-sm" /></a>
-    <!-- placeholder: awaiting the Mugen photo -->
-    <a href="/assets/img/blog/juna/epp.avif" data-pswp-width="900" data-pswp-height="900" class="block cursor-zoom-in"><img src="/assets/img/blog/juna/epp.avif" alt="Juna photographed by the community" title="Juna"
+    <a href="/assets/img/blog/juna/mugen.avif" data-pswp-width="900" data-pswp-height="900" class="block cursor-zoom-in"><img src="/assets/img/blog/juna/mugen.avif" alt="Juna photographed by the community" title="Juna"
          width="900" height="900" loading="lazy"
          class="w-full aspect-square object-cover rounded-sm" /></a>
   </div>
   <figcaption class="text-sm text-center text-neutral-500">
-    Photos by <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a> and <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">EPP</a>
+    Profile pictures of <a href="https://www.instagram.com/alexotos/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Alexotos</a> , <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">EPP</a> and <a href="https://www.instagram.com/extrapriusplease.kb/" class="unset-link underline underline-offset-2 transition-colors hover:text-accent-green">Mugen</a>
   </figcaption>
 </figure>
 
@@ -231,6 +236,17 @@ Logo out.
   allowfullscreen></iframe>
 </div>
 
+## Streams
+
+<div class="aspect-video my-6">
+ <iframe class="w-full h-full rounded-sm" src="https://www.youtube.com/embed/WKCUgtjD19c?si=ShWllxayPgc8Wzvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="aspect-video my-6">
+ <iframe class="w-full h-full rounded-sm" src="https://www.youtube.com/embed/LY2jGlEg_fE?si=t6SatBv2bTjqIU99" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<div class="aspect-video my-6">
+ <iframe class="w-full h-full rounded-sm"  src="https://www.youtube.com/embed/SilqzEMsiNs?si=89TRaOlilaXj_BtC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 
 
